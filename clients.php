@@ -1,22 +1,21 @@
 <?php include 'include/head.php'; ?>
 <?php include 'include/navbar.php'; ?>
+    <!-- main-area -->
+    <main class="main-area fix">
 
-  <!-- main-area -->
-  <main class="main-area fix">
-
-<!-- breadcrumb-area -->
-<div class="breadcrumb__area breadcrumb__bg contact-banner" data-background="">
+        <!-- breadcrumb-area -->
+        <div class="breadcrumb__area breadcrumb__bg" data-background="assets/img/banner/contact.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="breadcrumb__content">
-                            <h2 class="title">Notice</h2>
+                            <h2 class="title">Clients</h2>
                             <nav class="breadcrumb">
                                 <span property="itemListElement" typeof="ListItem">
                                     <a href="index.html">Home</a>
                                 </span>
                                 <span class="breadcrumb-separator">/</span>
-                                <span property="itemListElement" typeof="ListItem">Notice</span>
+                                <span property="itemListElement" typeof="ListItem">Clients</span>
                             </nav>
                         </div>
                     </div>
