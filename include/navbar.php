@@ -23,7 +23,7 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Infrastructure</a>
+          <a class="nav-link active" aria-current="page" href="infra.php">Infrastructure</a>
         </li>
        
         <li class="nav-item">
@@ -33,7 +33,7 @@
           <a class="nav-link" href="#">EIA</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Clients</a>
+          <a class="nav-link" href="clients.php">Clients</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="csr.php">CSR</a>
