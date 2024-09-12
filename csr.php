@@ -31,8 +31,8 @@
                 <div class="project__details-list">
                     <div class="row gutter-24">
                         <div class="col-lg-6 order-0 order-lg-2">
-                            <div class="project__details-list-img">
-                                <img src="assets/img/project/project_details_list_img.jpg" alt="img">
+                            <div class="project__details-list-img height-csr-img">
+                                <img src="assets/img/csr/csr.jpg" alt="img">
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -46,6 +46,53 @@
                     </div>
                 </div>
             </div>
+            <div class="project__details-bottom-content mt-5">
+              
+                <!-- <p>Prevent pollution through control of resource usage and control of waste release. It is ensured that there is least impact on the environment during the execution of our activities.</p> -->
+                <div class="project__details-list">
+                    <div class="row gutter-24">
+                    <div class="col-lg-6">
+                            <div class="project__details-list-img height-csr-img">
+                                <img src="assets/img/csr/csr-plantation-drive.jpg" alt="img">
+                            </div>
+                        </div>
+                    <div class="col-lg-6 d-flex justify-content-center align-items-center">
+                        <div class="">
+                        <h2 class="title">Plantation drive</h2>
+                            <ul class="list-wrap">
+                                <li><i class="far fa-check-circle"></i>We planted 2500 tree saplings for a pollution free environment.</li>
+                           
+                            </ul>
+                        </div>
+                        </div>
+                      
+                    </div>
+                </div>
+            </div>
+            <div class="project__details-bottom-content mt-5">
+              
+              <!-- <p>Prevent pollution through control of resource usage and control of waste release. It is ensured that there is least impact on the environment during the execution of our activities.</p> -->
+              <div class="project__details-list">
+                  <div class="row gutter-24">
+                  
+                  <div class="col-lg-6 d-flex justify-content-center align-items-center">
+                      <div class="">
+                      <h2 class="title">Vaccination drive</h2>
+                          <ul class="list-wrap">
+                              <li><i class="far fa-check-circle"></i>We have organised a COVID 19 vaccination camp for our employees to make our industry fully vaccinated</li>
+                         
+                          </ul>
+                      </div>
+                      </div>
+                      <div class="col-lg-6">
+                          <div class="project__details-list-img height-csr-img">
+                              <img src="assets/img/csr/csr-vaccination-drive.jpg" alt="img">
+                          </div>
+                      </div>
+                    
+                  </div>
+              </div>
+          </div>
         </div>
     </section>
 </main>
