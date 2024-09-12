@@ -9,7 +9,7 @@
   --tg-heading-line-height: 1.2;
   --tg-body-color: #74787C;
   --tg-heading-color: #121212;
-  --tg-theme-primary: #F66300;
+  --tg-theme-primary: #f2c425;
   --tg-theme-secondary: #171717;
   --tg-color-dark-blue: #0E104B;
   --tg-color-yellow-light: #FFBE17;
@@ -82,6 +82,7 @@ body {
   font-weight: var(--tg-fw-regular);
   color: var(--tg-body-color);
   line-height: var(--tg-body-line-height);
+  margin-top: 110px;
 }
 
 img,
@@ -914,6 +915,7 @@ textarea {
   font-weight: 600;
   text-transform: uppercase;
   line-height: 1;
+  color: var(--white);
 }
 @media (max-width: 1500px) {
   .breadcrumb__content .title {
@@ -11912,9 +11914,15 @@ textarea {
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 200px;
+  height: 100px;
+  border: 1px solid #f1f1f1;
 }
 .brand__item img {
   cursor: pointer;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 /*=============================
@@ -12638,7 +12646,7 @@ textarea {
 
 .navWrapper .navbar .nav-link {
   color: var(--white);
-  letter-spacinglg: 0.8px;
+  letter-spacing: 0.8px;
 }
 
 .navWrapper .navbar-collapse {
@@ -12964,6 +12972,7 @@ footer ul {
 }
 footer h3 {
   margin-bottom: var(--spacingXl);
+  color: var(--white);
 }
 footer ul li {
   font-family: "Open Sans", sans-serif;
