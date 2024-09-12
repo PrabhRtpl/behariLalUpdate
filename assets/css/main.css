@@ -870,7 +870,11 @@ textarea {
 .breadcrumb__bg {
   background-size: cover;
   background-position: center;
-  padding: 120px 0;
+  padding: 150px 0;
+
+}
+.contact-banner{
+  background-image: url('../img/banner/contact.jpg');
 }
 @media (max-width: 1199.98px) {
   .breadcrumb__bg {
@@ -884,10 +888,10 @@ textarea {
 }
 .breadcrumb__content {
   display: inline-block;
-  border: 1px solid #FFF;
+  /* border: 1px solid #FFF;
   background: rgba(255, 255, 255, 0.03);
   backdrop-filter: blur(18px);
-  padding: 55px 90px 55px 60px;
+  padding: 55px 90px 55px 60px; */
 }
 @media (max-width: 1199.98px) {
   .breadcrumb__content {
@@ -12003,8 +12007,9 @@ textarea {
 }
 .contact__info-content .content .title {
   margin-bottom: 0;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 500;
+  text-transform: lowercase;
 }
 @media (max-width: 1199.98px) {
   .contact__info-content .content .title {
