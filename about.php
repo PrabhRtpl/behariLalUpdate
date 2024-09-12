@@ -152,16 +152,16 @@
                                 <img src="assets/img/team/inner_team_img01.jpg" alt="img">
                                 <div class="team__social-two">
                                     <ul class="list-wrap">
-                                        <li><a href="https://www.facebook.com/" target="_blank">FB</a></li>
-                                        <li><a href="https://twitter.com/home" target="_blank">TW</a></li>
-                                        <li><a href="https://www.linkedin.com/" target="_blank">LI</a></li>
-                                        <li><a href="https://www.instagram.com/" target="_blank">IN</a></li>
+                                        <li><a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
+                                        <li><a href="https://twitter.com/home" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+                                        <li><a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="team__content-two">
-                                <h2 class="title"><a href="team-details.html">Freddie Charlie</a></h2>
-                                <span>Head of construction</span>
+                                <h2 class="title"><a href="javascript::void()">Dinesh Garg</a></h2>
+                                <span>Chairman</span>
                             </div>
                         </div>
                     </div>
@@ -171,16 +171,16 @@
                                 <img src="assets/img/team/inner_team_img02.jpg" alt="img">
                                 <div class="team__social-two">
                                     <ul class="list-wrap">
-                                        <li><a href="https://www.facebook.com/" target="_blank">FB</a></li>
-                                        <li><a href="https://twitter.com/home" target="_blank">TW</a></li>
-                                        <li><a href="https://www.linkedin.com/" target="_blank">LI</a></li>
-                                        <li><a href="https://www.instagram.com/" target="_blank">IN</a></li>
+                                        <li><a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
+                                        <li><a href="https://twitter.com/home" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+                                        <li><a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="team__content-two">
-                                <h2 class="title"><a href="team-details.html">Abigail Penelope</a></h2>
-                                <span>Head of construction</span>
+                                <h2 class="title"><a href="javascript::void()">Dinesh Garg</a></h2>
+                                <span>Chairman</span>
                             </div>
                         </div>
                     </div>
@@ -190,35 +190,35 @@
                                 <img src="assets/img/team/inner_team_img03.jpg" alt="img">
                                 <div class="team__social-two">
                                     <ul class="list-wrap">
-                                        <li><a href="https://www.facebook.com/" target="_blank">FB</a></li>
-                                        <li><a href="https://twitter.com/home" target="_blank">TW</a></li>
-                                        <li><a href="https://www.linkedin.com/" target="_blank">LI</a></li>
-                                        <li><a href="https://www.instagram.com/" target="_blank">IN</a></li>
+                                        <li><a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
+                                        <li><a href="https://twitter.com/home" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+                                        <li><a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="team__content-two">
-                                <h2 class="title"><a href="team-details.html">Matthew Sebastian</a></h2>
-                                <span>Head of construction</span>
+                                <h2 class="title"><a href="javascript::void()">Dinesh Garg</a></h2>
+                                <span>Marketing Head</span>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-4 col-sm-6">
                         <div class="team__item-two">
                             <div class="team__thumb-two">
-                                <img src="assets/img/team/inner_team_img04.jpg" alt="img">
+                                <img src="assets/img/team/inner_team_img01.jpg" alt="img">
                                 <div class="team__social-two">
                                     <ul class="list-wrap">
-                                        <li><a href="https://www.facebook.com/" target="_blank">FB</a></li>
-                                        <li><a href="https://twitter.com/home" target="_blank">TW</a></li>
-                                        <li><a href="https://www.linkedin.com/" target="_blank">LI</a></li>
-                                        <li><a href="https://www.instagram.com/" target="_blank">IN</a></li>
+                                        <li><a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
+                                        <li><a href="https://twitter.com/home" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+                                        <li><a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="team__content-two">
-                                <h2 class="title"><a href="team-details.html">Hannah Harper</a></h2>
-                                <span>Head of construction</span>
+                                <h2 class="title"><a href="javascript::void()">Dinesh Garg</a></h2>
+                                <span>Chairman</span>
                             </div>
                         </div>
                     </div>
@@ -272,6 +272,56 @@
             </div>
         </div>
         <!-- brand-area-end -->
+
+
+        <section class="community__area section-py-120">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-lg-6 col-md-9">
+                        <div class="community__img">
+                            <img src="assets/img/images/cimmunity_img.png" alt="img" class="wow img-custom-anim-left  animated" data-wow-duration="1.5s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="community__content">
+                            <div class="section__title section__title-three mb-30">
+                                <span class="sub-title">Our Commitment To Community</span>
+                                <h2 class="title">Automotive & Engineering Products</h2>
+                            </div>
+                            <p>Our Quality Centric policy drives us towards our goal of Customer Delight. In a short span of time, Behari Lal Ispat has become an established manufacturer and trusted vendor for various product lines. All our processes are consistent with ISO 9001 : 2015 Certification.</p>
+                            <div class="about__list-box-wrap">
+                                <div class="about__list-box">
+                                    <div class="icon">
+                                  <img src="assets/img/icons/mision.png" alt="">
+                                    </div>
+                                    <div class="content">
+                                        <h4 class="title">Our Mission</h4>
+                                        <ul>
+                                            <li>Consistent with the Vision and Values of our Chairman Sh. Parkash Chand Garg Ji to.</li>
+                                            <li>Become a World Class integrated facility for Automotive & Engineering products.</li>
+                                            <li>Manufacturing excellence, quality, commitment to safety and reliability.</li>
+                                            <li>Move towards Green Steel by sustainable use of Earth’s natural resources.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="about__list-box">
+                                    <div class="icon">
+                                    <img src="assets/img/icons/vision.png" alt="">
+
+                                    </div>
+                                    <div class="content">
+                                        <h4 class="title">Our Vision</h4>
+                                        <ul>
+                                            <li>Behari Lal Group envisage to become No. 1 Choice for World Class Steel Products in Quality, Productivity and Customer Satisfaction.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
     </main>

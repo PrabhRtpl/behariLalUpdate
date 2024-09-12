@@ -889,10 +889,10 @@ textarea {
 }
 .breadcrumb__content {
   display: inline-block;
-  /* border: 1px solid #FFF;
+  border: 1px solid #FFF;
   background: rgba(255, 255, 255, 0.03);
   backdrop-filter: blur(18px);
-  padding: 55px 90px 55px 60px; */
+  padding: 55px 90px 55px 60px;
 }
 @media (max-width: 1199.98px) {
   .breadcrumb__content {
@@ -6265,7 +6265,7 @@ textarea {
   display: -webkit-flex;
   display: flex;
   align-items: center;
-  background: var(--tg-theme-primary);
+  background: var(--primary-blue);
   -webkit-border-radius: 20px 0;
   -moz-border-radius: 20px 0;
   -o-border-radius: 20px 0;
@@ -6299,7 +6299,7 @@ textarea {
   text-transform: uppercase;
   color: var(--tg-color-white-default);
   writing-mode: vertical-rl;
-  transform: rotate(-180deg);
+  /* transform: rotate(-180deg); */
   line-height: 1;
 }
 .team__content .title {
