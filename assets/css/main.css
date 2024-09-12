@@ -12754,6 +12754,7 @@ section.featWrap {
   text-align: center;
   width: 45%;
   margin: var(--spacingLg) auto var(--spacingXl) auto;
+  color: var(--white);
 }
 
 .aboutWrapper h6 {
@@ -12785,8 +12786,11 @@ section.featWrap {
   position: relative;
   margin-bottom: var(--spacingLg);
   padding-left: 35px;
+  color: var(--white);
 }
-
+.info p{
+  color: var(--white);
+}
 .qualities h5::before {
   content: "";
   position: absolute;
