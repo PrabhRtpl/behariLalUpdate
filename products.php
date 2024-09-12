@@ -34,7 +34,7 @@
                     <img src="assets/img/metalRoll.png" alt="worker icon">
                     <div class="prdctName">
                         <h5>METAL ROLLS</h5>
-                        <a href="javascript::void()"><i class="fa-solid fa-arrow-right"></i></a>
+                        <a href="metalRolls.php"><i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>

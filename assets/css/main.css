@@ -5218,10 +5218,13 @@ textarea {
   position: relative;
   z-index: 1;
 }
+.services__icon-four i{
+font-size: 24px;
+}
 @media (max-width: 1500px) {
-  .services__item-four {
-    padding: 25px 20px 30px;
-    gap: 15px;
+    .services__item-four {
+      padding: 22px 13px 22px;
+      gap: 12px;
   }
 }
 .services__item-four:hover {
@@ -13417,4 +13420,14 @@ section.misVis {
 .height-csr-img img{
   height: auto ;
 }
+.productRoll p strong{
+  color: var(--yellowText);
+  font-weight: var(--weightXl);
+}
+.thead-dark tr th{
+  background-color: var(--primary-blue);
+  color: var(--white);
+}
+
+
 /* prabh karan css end */
