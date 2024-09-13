@@ -34,7 +34,7 @@
                 Notice for Unsecured Creditors of Behari Lal Ispat Private Limited
                 </div> -->
                 <div class="pdf-content">
-                <a href="iamges/pdf/Notice1.pdf"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>Notice for Unsecured Creditors of Behari Lal Ispat Private Limited</a>
+                <a href="iamges/img/pdf/Notice1.pdf"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>Notice for Unsecured Creditors of Behari Lal Ispat Private Limited</a>
                 </div>
 
             </div>
@@ -43,7 +43,7 @@
                 Notice for Unsecured Creditors of Behari Lal Ispat Private Limited
                 </div> -->
                 <div class="pdf-content">
-                <a href="assets/pdf/Notice2.pdf"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>Notice for Secured Creditors of Behari Lal Ispat Private Limited</a>
+                <a href="assets/img/pdf/Notice2.pdf"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>Notice for Secured Creditors of Behari Lal Ispat Private Limited</a>
                 </div>
 
             </div>
@@ -55,7 +55,7 @@
                 Notice for Unsecured Creditors of Behari Lal Ispat Private Limited
                 </div> -->
                 <div class="pdf-content">
-                <a href="assets/pdf/Notice3.pdf"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>Notice for Unsecured Creditors of Behari Lal Ispat Private Limited</a>
+                <a href="assets/img/pdf/Notice3.pdf"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>Notice for Unsecured Creditors of Behari Lal Ispat Private Limited</a>
                 </div>
 
             </div>
@@ -64,7 +64,7 @@
                 Notice for Unsecured Creditors of Behari Lal Ispat Private Limited
                 </div> -->
                 <div class="pdf-content">
-                <a href="assets/pdf/Notice4.pdf"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>Notice for Unsecured Creditors of Behari Lal Ispat Private Limited</a>
+                <a href="assets/img/pdf/Notice4.pdf"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>Notice for Unsecured Creditors of Behari Lal Ispat Private Limited</a>
                 </div>
 
             </div>

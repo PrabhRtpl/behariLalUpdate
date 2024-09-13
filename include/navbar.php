@@ -30,7 +30,7 @@
           <a class="nav-link" href="#">Quality Assurance</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">EIA</a>
+          <a class="nav-link" href="assets/img/pdf/EC-letter.pdf">EIA</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="clients.php">Clients</a>
