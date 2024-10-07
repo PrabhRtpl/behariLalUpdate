@@ -17,9 +17,11 @@
            Products
           </a>
           <ul class="dropdown-menu" aria-labelledby="dropProducts">
-            <li><a class="dropdown-item" href="#">Metal Rolls</a></li>
-            <li><a class="dropdown-item" href="#">Engineering Castings</a></li>
-            <li><a class="dropdown-item" href="#">Alloy Steel Round & Flats</a></li>
+            <li><a class="dropdown-item" href="metalRolls.php">Metal Rolls</a></li>
+            <li><a class="dropdown-item" href="eng-casting.php">Engineering Castings</a></li>
+            <li><a class="dropdown-item" href="carbon.php">Carbon & Alloy Steel Bars</a></li>
+            <li><a class="dropdown-item" href="forging-ingots.php">Forging Quality Ingots</a></li>
+            <li><a class="dropdown-item" href="forged-shafts.php">Forged Shafts and Blocks</a></li>
           </ul>
         </li>
         <li class="nav-item">
@@ -29,8 +31,17 @@
         <li class="nav-item">
           <a class="nav-link" href="#">Quality Assurance</a>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link" href="assets/img/pdf/EC-letter.pdf">EIA</a>
+        </li> -->
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" id="dropProducts" role="button" data-bs-toggle="dropdown" aria-expanded="false" onclick="window.location.href='products.php';">
+          Notification
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="dropProducts">
+            <li><a class="dropdown-item" href="assets/img/pdf/EC-letter.pdf">EIA</a></li>
+            <li><a class="dropdown-item" href="#">Merger</a></li>
+          </ul>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="clients.php">Clients</a>

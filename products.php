@@ -29,7 +29,7 @@
         <h6 class="subHead">What We Offer</h6>
         <h2 class="secHead">Popular Products</h2>
         <div class="row features">
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pb-5">
                 <div class="product" data-aos="fade-right" data-aos-duration="1500">
                     <img src="assets/img/metalRoll.png" alt="worker icon">
                     <div class="prdctName">
@@ -38,7 +38,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pb-5">
                 <div class="product" data-aos="fade-up" data-aos-duration="1500">
                     <img src="assets/img/engCastings.png" alt="worker icon">
                     <div class="prdctName">
@@ -47,11 +47,32 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pb-5">
                 <div class="product" data-aos="fade-left" data-aos-duration="1500">
                     <img src="assets/img/steelRounds.png" alt="worker icon">
                     <div class="prdctName">
-                        <h5>Alloy Steel Round & Flats</h5>
+                        <h5>Carbon & Alloy Steel Bars</h5>
+                        <a href="javascript::void()"><i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row features ">
+           
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pb-5 m-auto">
+                <div class="product" data-aos="fade-up" data-aos-duration="1500">
+                    <img src="assets/img/engCastings.png" alt="worker icon">
+                    <div class="prdctName">
+                        <h5>Forging Quality Ingots</h5>
+                        <a href="javascript::void()"><i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pb-5 m-auto">
+                <div class="product" data-aos="fade-left" data-aos-duration="1500">
+                    <img src="assets/img/steelRounds.png" alt="worker icon">
+                    <div class="prdctName">
+                        <h5>Forged Shafts and Blocks</h5>
                         <a href="javascript::void()"><i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -90,7 +111,9 @@
     <div class="container footer__features">
         <a href="javascript::void()">Metal Rolls</a>
         <a href="javascript::void()">Engineering Castings</a>
-        <a href="javascript::void()">Alloy Steel Round & Flats</a>
+        <a href="javascript::void()">Carbon & Alloy Steel Bars</a>
+        <a href="javascript::void()">Forging Quality Ingots</a>
+        <a href="javascript::void()">Forged Shafts and Blocks</a>
     </div>
 
 </main>

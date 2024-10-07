@@ -40,29 +40,23 @@
                             <span class="sub-title">Metal Rolls</span>
                             <h2 class="title">Metal Rolls For Rolling Mills</h2>
                         </div>
-                        <p>We are engaged in Manufacturing of Rolls for Rolling Mills in various grades, designed and
-                            customised so as to cater to our customer’s needs. Behari Lal Rolls has emerged as a strong
-                            performer when it comes to competence, efficiency, performance and deliverance, and has
-                            become one of the leading Rolls manufacturers in India.</p>
-                        <p>The Rolls division is headed by a team of professionals and technical experts having an
-                            extensive experience of more than 25 years in the Rolls industry and are capable of handling
-                            even the most critical jobs. Currently we are manufacturing Rolls and Rings of up to 1200mm
-                            in diameter and finish weight of 14 M.T.</p>
+                        <p>We are engaged in Manufacturing of Rolls for Rolling Mills in various grades, designed and customised so as to cater to our customer’s needs. Behari Lal Rolls has emerged as a strong performer when it comes to competence, efficiency, performance and deliverance, and has become one of the leading Rolls manufacturers in India.</p>
+                        <p>The Rolls division is headed by a team of professionals and technical experts having an extensive experience of more than 25 years in the Rolls industry and are capable of handling even the most critical jobs. Currently we are manufacturing Rolls and Rings of up to 1200mm in diameter and finish weight of 14 M.T.</p>
                         <div class="about__content-four-inner">
                             <img src="assets/img/images/grades.png" alt="img" class="wow img-custom-anim-top  animated"
                                 data-wow-duration="1.5s" data-wow-delay="0.2s"
                                 style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-top;">
                                 <ul class="list-wrap about__inner-list">
                                 <h6>Grades of Metal Rolls</h6>
-                                <li><i class="fas fa-check-circle"></i>ICDP Rolls</li>
                                 <li><i class="fas fa-check-circle"></i>Alloy Cast Steel Rolls</li>
                                 <li><i class="fas fa-check-circle"></i>Alloy Steel Base Adamite Rolls</li>
-                                <li><i class="fas fa-check-circle"></i>Graphite Steel Rolls</li>
+                                <li><i class="fas fa-check-circle"></i>Graphitic Steel Rolls</li>
                                 <li><i class="fas fa-check-circle"></i>High Speed Steel (HSS) Rolls</li>
                                 <li><i class="fas fa-check-circle"></i>S.G. Iron Ferritic Rolls</li>
-                                <li><i class="fas fa-check-circle"></i>S. G. Iron Pearlitic Rolls</li>
-                                <li><i class="fas fa-check-circle"></i>S. G. Iron Bainitic/Accicular Rolls</li>
+                                <li><i class="fas fa-check-circle"></i>S.G. Iron Pearlitic Rolls</li>
+                                <li><i class="fas fa-check-circle"></i>S.G. Iron Bainitic-Acicular Rolls</li>
                                 <li><i class="fas fa-check-circle"></i>Alloyed Indefinite Chill Rolls</li>
+                                <li><i class="fas fa-check-circle"></i>ICDP Rolls</li>
                             </ul>
                         </div>
                     </div>
@@ -70,6 +64,7 @@
             </div>
         </div>
     </section>
+    <div class="one-sub">
     <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
         style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
         <section class="history__area section-py-120">
@@ -165,6 +160,8 @@
             </div>
         </div>
     </div>
+    </div>
+    <div class="two-sub">
     <section class="history__area section-py-120 grey-bg">
         <div class="container">
             <div class="row align-items-center justify-content-center">
@@ -180,17 +177,8 @@
                         <div class="section__title section__title-three mb-25">
                             <h2 class="title">ALLOY STEEL BASE (ADAMITE) ROLLS</h2>
                         </div>
-                        <p><strong>Characteristics :</strong>Alloy Steel Base Adamite Rolls are Hyper-eutectoid Steel
-                            alloyed with Nickel, Chromium and Molybdenum with higher Carbon content, ranging from 0.80%
-                            to 2.00%. Vanadium is also added to achieve the desired microstructure. It has higher
-                            mechanical strength and thermal/wear resistance. The rolls undergo a multi-stage, high
-                            temperature heat treatment cycle which consists of Normalizing/Hardening followed by a
-                            tempering cycle. This gives the rolls a combination of hardness, toughness and wear
-                            resistance required for a particular application. The microstructure consists of fine
-                            pearlitic matrix with spheroidized carbide.</p>
-                        <p><strong>Applications :</strong>These rolls are suitable for Roughing, Intermediate and
-                            Finishing stands for Section and Structural Mills. Applications include Heavy Section and
-                            Rail Mills, Universal Beam Mills, TMT Bar Mills, Medium Section Mills and Billet Mills.</p>
+                        <p><strong>Characteristics :</strong>Alloy Steel Base Adamite Rolls are Hyper-eutectoid Steel alloyed with Nickel, Chromium and Molybdenum with higher Carbon content, ranging from 0.80% to 2.00%. Vanadium is also added to achieve the desired microstructure. It has higher mechanical strength and thermal/wear resistance. The rolls undergo a multi-stage, high temperature heat treatment cycle which consists of Normalising/Hardening followed by a tempering cycle. This gives the rolls a combination of hardness, toughness and wear resistance required for a particular application. The microstructure consists of fine pearlitic matrix with spheroidised carbide.</p>
+                        <p><strong>Applications :</strong>These Rolls are suitable for Roughing, Intermediate and Finishing stands for Section and Structural Mills. Applications include Heavy Section and Rail Mills, Universal Beam Mills, TMT Re-Bar and Wire Rod Mills, Medium Section Mills and Billet Mills.</p>
                     </div>
                     <div class="row">
                         <div class="col-lg-6">
@@ -244,6 +232,106 @@
                         </thead>
                         <tbody>
                             <tr>
+                                <td>0.80</td>
+                                <td>0.60</td>
+                                <td>0.30</td>
+                                <td>0.05</td>
+                                <td>0.05</td>
+                                <td>0.50</td>
+                                <td>0.80</td>
+                                <td>0.25</td>
+                            </tr>
+                            <tr>
+                                <td>2.00</td>
+                                <td>1.20</td>
+                                <td>0.80</td>
+                                <td>MAX</td>
+                                <td>MAX</td>
+                                <td>1.30</td>
+                                <td>1.60</td>
+                                <td>0.60</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="three-sub">
+    <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
+        style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
+        <section class="history__area section-py-120">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-lg-6 col-md-10 order-0 order-lg-2">
+                        <div class="history__img">
+                            <img src="assets/img/images/alloyCast.png" alt="img"
+                                class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
+                                data-wow-delay="0.2s"
+                                style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="history__content productRoll">
+                            <div class="section__title section__title-three white-title mb-25">
+                                <h2 class="title">GRAPHITIC STEEL ROLLS</h2>
+                            </div>
+                            <p><strong>Characteristics :</strong> A special type of steel roll where some properties of cast iron are included in the steel material. The service performance of this roll is superior to a normal steel roll, i.e., it is much more resistant to wear and fire cracks due to the presence of graphite without reduction of strength and toughness. These rolls are ideal for all mills like medium and heavy section where fire cracking is major concern.</p>
+                            <p><strong>Applications :</strong>These Rolls are suitable for Medium and Heavy Section Mills and Roughing Stands of TMT Re-Bar and Wire Rod Mills.</p>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="services__item-four">
+                                    <div class="services__icon-four">
+                                        <i class="fa-solid fa-ribbon"></i>
+                                    </div>
+                                    <div class="services__content-four">
+                                        <span>Common Grades:</span>
+                                        <p>GPH 50 (48° - 52° Sh C)</p>
+                                        <p>GPH 53 (53° - 58° Sh C)</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="services__item-four">
+                                    <div class="services__icon-four">
+                                        <i class="fa-solid fa-ribbon"></i>
+                                    </div>
+                                    <div class="services__content-four">
+                                        <span>Mechanical Properties:</span>
+                                        <p>Tensile Strength : 650-850 N/mm2</p>
+                                        <p>Bending Strength : 3-9 J/cm2</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+    <div class="container chemical-text aos-init aos-animate section-py-120" data-aos="fade-right">
+        <div class="row">
+            <div class="col-12">
+                <h4 class="mb-4">Chemical Composition Range</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">C%</th>
+                                <th scope="col">Mn%</th>
+                                <th scope="col">Si%</th>
+                                <th scope="col">P%</th>
+                                <th scope="col">S%</th>
+                                <th scope="col">Ni%</th>
+                                <th scope="col">Cr%</th>
+                                <th scope="col">Mo%</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
                                 <td>1.30</td>
                                 <td>0.60</td>
                                 <td>0.80</td>
@@ -269,7 +357,748 @@
             </div>
         </div>
     </div>
+    </div>
+    <div class="four-sub">
+    <section class="history__area section-py-120 grey-bg">
+        <div class="container">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-6 col-md-10">
+                    <div class="history__img">
+                        <img src="assets/img/images/alloyCast.png" alt="img" class="wow img-custom-anim-left  animated"
+                            data-wow-duration="1.5s" data-wow-delay="0.2s"
+                            style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="history__content productRoll">
+                        <div class="section__title section__title-three mb-25">
+                            <h2 class="title">HIGH SPEED STEEL ROLLS (HSS)</h2>
+                        </div>
+                        <p><strong>Characteristics :</strong>HSS Rolls are centrifugally cast, which means that the Shell is HSS and contains high amounts of Cr, Mo, Nb, V and W and the Core is Nodular Iron. HSS Rolls have several benefits like High Hardness & Good Wear Resistance, High Campaign Life, High Abrasion Resistance, Huge Time Saved which was earlier lost to Rolls/Pass Changing, Reduced Cost of Production, Better Surface Finish of Rolled Product and Good Thermal Stability</p>
+                        <p><strong>Applications :</strong>These Rolls are suitable for Finishing Stands of Wire Rod and TMT Re-Bar Mills.</p>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="services__item-four">
+                                <div class="services__icon-four">
+                                    <i class="fa-solid fa-ribbon"></i>
+                                </div>
+                                <div class="services__content-four">
+                                    <span>Common Grades:</span>
+                                    <p>HSS 78 (75° - 80° Sh C)</p>
+                                    <p>HSS 83 (80° - 85° Sh C)</p>
+                                    <!-- <p>ADM 47 (45°-50° Sh C)</p>
+                                    <p>ADM 50 (48°-52° Sh C)</p> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="services__item-four">
+                                <div class="services__icon-four">
+                                    <i class="fa-solid fa-ribbon"></i>
+                                </div>
+                                <div class="services__content-four">
+                                    <span>Mechanical Properties:</span>
+                                    <p>Tensile Strength : 650-900 N/mm2</p>
+                                    <p>Bending Strength : 4-8 J/cm2</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="container chemical-text aos-init aos-animate section-py-120" data-aos="fade-left">
+        <div class="row">
+            <div class="col-12">
+                <h4>Chemical Composition Range</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">C%</th>
+                                <th scope="col">Mn%</th>
+                                <th scope="col">Si%</th>
+                                <th scope="col">Cr%</th>
+                                <th scope="col">Mo%</th>
+                                <th scope="col">W%</th>
+                                <th scope="col">V%</th>
+                                <th scope="col">Ni%</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1.60</td>
+                                <td>0.20</td>
+                                <td>0.30</td>
+                                <td>4.00</td>
+                                <td>3.50</td>
+                                <td>2.00</td>
+                                <td>4.00</td>
+                                <td>0.50</td>
+                            </tr>
+                            <tr>
+                                <td>2.20</td>
+                                <td>0.80</td>
+                                <td>0.90</td>
+                                <td>7.00</td>
+                                <td>6.00</td>
+                                <td>5.00</td>
+                                <td>6.00</td>
+                                <td>1.50</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="five-sub">
+    <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
+        style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
+        <section class="history__area section-py-120">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-lg-6 col-md-10 order-0 order-lg-2">
+                        <div class="history__img">
+                            <img src="assets/img/images/alloyCast.png" alt="img"
+                                class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
+                                data-wow-delay="0.2s"
+                                style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="history__content productRoll">
+                            <div class="section__title section__title-three white-title mb-25">
+                                <h2 class="title">SPHEROIDAL GRAPHITE IRON (FERRITIC) ROLLS</h2>
+                            </div>
+                            <p><strong>Characteristics :</strong>Spheroidal Graphite Iron Ferritic Rolls are structurally characterised as having graphite in nodular form. The matrix structure varies from Ferritic to Ferrito-Pearlitic along with low carbide content and graphite in the form of spheroid / nodules.</p>
+                            <p><strong>Applications :</strong>These rolls are suitable for Roughing Mill stands of Blooming/Slabbing, TMT Re-Bar and Wire Rod mills</p>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="services__item-four">
+                                    <div class="services__icon-four">
+                                        <i class="fa-solid fa-ribbon"></i>
+                                    </div>
+                                    <div class="services__content-four">
+                                        <span>Common Grades:</span>
+                                        <p>SG F 43 (40° - 45° Sh C)</p>
+                                        <p>SG F 47 (45° - 50° Sh C)</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="services__item-four">
+                                    <div class="services__icon-four">
+                                        <i class="fa-solid fa-ribbon"></i>
+                                    </div>
+                                    <div class="services__content-four">
+                                        <span>Mechanical Properties:</span>
+                                        <p>Tensile Strength : 400-600 N/mm2</p>
+                                        <p>Bending Strength : 2-4 J/cm2</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+    <div class="container chemical-text aos-init aos-animate section-py-120" data-aos="fade-right">
+        <div class="row">
+            <div class="col-12">
+                <h4 class="mb-4">Chemical Composition Range</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">C%</th>
+                                <th scope="col">Mn%</th>
+                                <th scope="col">Si%</th>
+                                <th scope="col">P%</th>
+                                <th scope="col">S%</th>
+                                <th scope="col">Ni%</th>
+                                <th scope="col">Cr%</th>
+                                <th scope="col">Mo%</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>2.80</td>
+                                <td>0.60</td>
+                                <td>1.50</td>
+                                <td>0.08</td>
+                                <td>0.015</td>
+                                <td>1.50</td>
+                                <td>0.10</td>
+                                <td>0.25</td>
+                            </tr>
+                            <tr>
+                                <td>3.40</td>
+                                <td>MAX</td>
+                                <td>2.30</td>
+                                <td>MAX</td>
+                                <td>MAX</td>
+                                <td>2.30</td>
+                                <td>0.60</td>
+                                <td>0.60</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="six-sub">
+    <section class="history__area section-py-120 grey-bg">
+        <div class="container">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-6 col-md-10">
+                    <div class="history__img">
+                        <img src="assets/img/images/alloyCast.png" alt="img" class="wow img-custom-anim-left  animated"
+                            data-wow-duration="1.5s" data-wow-delay="0.2s"
+                            style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="history__content productRoll">
+                        <div class="section__title section__title-three mb-25">
+                            <h2 class="title">SPHEROIDAL GRAPHITE IRON (PEARLITIC) ROLLS</h2>
+                        </div>
+                        <p><strong>Characteristics :</strong>Spheroidal Graphite Iron Pearlitic Rolls are structurally characterised as having graphite in nodular form instead of being in flakes as characterised in normal Cast Iron Rolls. The matrix structure varies from Ferrito-Pearlitic and Pearlitic together with different carbide content and graphite in the form of spheroid / nodules.</p>
+                        <p><strong>Applications :</strong>These Rolls are suitable for Roughing and Intermediate Mill Stands of Blooming/Slabbing, TMT Re-Bar and Wire Rod mills, and Rolls for Intermediate and Finishing Stands of Structure and Narrow Strip Mills.</p>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="services__item-four">
+                                <div class="services__icon-four">
+                                    <i class="fa-solid fa-ribbon"></i>
+                                </div>
+                                <div class="services__content-four">
+                                    <span>Common Grades:</span>
+                                    <p>SG P 47 (45° - 50° Sh C)</p>
+                                    <p>SG P 53 (50° - 55° Sh C)</p>
+                                    <p>SG P 57 (55° - 60° Sh C)</p>
+                                    <p>SG P 63 (60° - 65° Sh C)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="services__item-four">
+                                <div class="services__icon-four">
+                                    <i class="fa-solid fa-ribbon"></i>
+                                </div>
+                                <div class="services__content-four">
+                                    <span>Mechanical Properties:</span>
+                                    <p>Tensile Strength : 400-600 N/mm2</p>
+                                    <p>Bending Strength : 2-4 J/cm2</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="container chemical-text aos-init aos-animate section-py-120" data-aos="fade-left">
+        <div class="row">
+            <div class="col-12">
+                <h4>Chemical Composition Range</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">C%</th>
+                                <th scope="col">Mn%</th>
+                                <th scope="col">Si%</th>
+                                <th scope="col">P%</th>
+                                <th scope="col">S%</th>
+                                <th scope="col">Ni%</th>
+                                <th scope="col">Cr%</th>
+                                <th scope="col">Mo%</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>3.00</td>
+                                <td>0.45</td>
+                                <td>1.20</td>
+                                <td>0.08</td>
+                                <td>0.015</td>
+                                <td>1.50</td>
+                                <td>0.30</td>
+                                <td>0.25</td>
+                            </tr>
+                            <tr>
+                                <td>3.60</td>
+                                <td>1.10</td>
+                                <td>2.30</td>
+                                <td>MAX</td>
+                                <td>MAX</td>
+                                <td>2.30</td>
+                                <td>0.90</td>
+                                <td>0.50</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="seven-sub">
+    <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
+        style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
+        <section class="history__area section-py-120">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-lg-6 col-md-10 order-0 order-lg-2">
+                        <div class="history__img">
+                            <img src="assets/img/images/alloyCast.png" alt="img"
+                                class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
+                                data-wow-delay="0.2s"
+                                style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="history__content productRoll">
+                            <div class="section__title section__title-three white-title mb-25">
+                                <h2 class="title">SPHEROIDAL GRAPHITE IRON (BAINITIC-ACICULAR) ROLLS</h2>
+                            </div>
+                            <p><strong>Characteristics :</strong>S.G.I. Bainitic-Acicular Rolls are stronger and more wear resistant than S.G.I. Pearlitic Rolls and are capable of much higher hardness. They are alloyed with a higher % of Nickel and Molybdenum than S.G.I Pearlitic and as a result, Acicular rolls have a bainitic matrix with increased carbide. The name of this material is based on its constituents of nodular graphite and carbides in an acicular (needle-like) bainitic matrix, also called Lower Bainitic. These Rolls are very suitable for a wide range of applications due to its hardness penetration, good wear and heat resistance. Intensive water cooling of rolls is necessary to ensure best performance.</p>
+                            <p><strong>Applications :</strong>These Rolls are suitable for Intermediate and Finishing Mill Stands for TMT Re-Bar and Wire Rod Mills, Rail and Structural Mills.</p>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="services__item-four">
+                                    <div class="services__icon-four">
+                                        <i class="fa-solid fa-ribbon"></i>
+                                    </div>
+                                    <div class="services__content-four">
+                                        <span>Common Grades:</span>
+                                        <p>SG AC 63 (60° - 65° Sh C)</p>
+                                        <p>SG AC 67 (65° - 70° Sh C)</p>
+                                        <p>SG AC 73 (70° - 75° Sh C)</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="services__item-four">
+                                    <div class="services__icon-four">
+                                        <i class="fa-solid fa-ribbon"></i>
+                                    </div>
+                                    <div class="services__content-four">
+                                        <span>Mechanical Properties:</span>
+                                        <p>Tensile Strength : 500-600 N/mm2</p>
+                                        <p>Bending Strength : 3-5 J/cm2</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+    <div class="container chemical-text aos-init aos-animate section-py-120" data-aos="fade-right">
+        <div class="row">
+            <div class="col-12">
+                <h4 class="mb-4">Chemical Composition Range</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">C%</th>
+                                <th scope="col">Mn%</th>
+                                <th scope="col">Si%</th>
+                                <th scope="col">P%</th>
+                                <th scope="col">S%</th>
+                                <th scope="col">Ni%</th>
+                                <th scope="col">Cr%</th>
+                                <th scope="col">Mo%</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>3.20</td>
+                                <td>0.45</td>
+                                <td>1.20</td>
+                                <td>0.06</td>
+                                <td>0.015</td>
+                                <td>2.30</td>
+                                <td>0.40</td>
+                                <td>0.40</td>
+                            </tr>
+                            <tr>
+                                <td>3.70</td>
+                                <td>1.00</td>
+                                <td>1.60</td>
+                                <td>MAX</td>
+                                <td>MAX</td>
+                                <td>3.50</td>
+                                <td>0.90</td>
+                                <td>1.00</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="eight-sub">
+    <section class="history__area section-py-120 grey-bg">
+        <div class="container">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-6 col-md-10">
+                    <div class="history__img">
+                        <img src="assets/img/images/alloyCast.png" alt="img" class="wow img-custom-anim-left  animated"
+                            data-wow-duration="1.5s" data-wow-delay="0.2s"
+                            style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="history__content productRoll">
+                        <div class="section__title section__title-three mb-25">
+                            <h2 class="title">ALLOYED INDEFINITE CHILL ROLLS (AIC)</h2>
+                        </div>
+                        <p><strong>Characteristics :</strong>Alloyed Indefinite Chill Rolls (AIC) have a matrix structure which varies from fine pearlitic to bainitic martensitic depending on the alloy addition. The desired hardness is achieved by changing the carbide to graphite balance with the help of the chemical composition. The presence of flake graphite makes the material resistant to fire cracking, spalling/chip-off and wear. Also, due to alloy addition, these rolls have a much better hardness penetration than clear chill and other cast iron rolls. Alloyed Indefinite Chill Rolls (AIC) are highly suitable for products where surface finish is very critical. Adequate water cooling of roll is required. Wide range of hardness/composition for a variety of applications is available to suit a particular mill stand.</p>
+                        <p><strong>Applications :</strong>These Rolls are suitable for Intermediate/Finishing Stands of TMT Re-Bar and Wire Rod Mills, Merchant Mills and Structural Mills. Finishing Stands of Strip and Flat Rolling Mills.</p>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="services__item-four">
+                                <div class="services__icon-four">
+                                    <i class="fa-solid fa-ribbon"></i>
+                                </div>
+                                <div class="services__content-four">
+                                    <span>Common Grades:</span>
+                                    <p>AIC 57 (55° - 60° Sh C)</p>
+                                    <p>AIC 63 (60° - 65° Sh C)</p>
+                                    <p>AIC 67 (65° - 70° Sh C)</p>
+                                    <p>AIC 73 (70° - 75° Sh C)</p>
+                                </div>
+                            </div>
+                            <div class="services__item-four">
+                                <div class="services__icon-four">
+                                    <i class="fa-solid fa-ribbon"></i>
+                                </div>
+                                <div class="services__content-four">
+                                    <span>SPECIAL GRADES:</span>
+                                    <p>SPIC (70° - 80° Sh C)</p>
+                                </div>
+                            </div>div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="services__item-four">
+                                <div class="services__icon-four">
+                                    <i class="fa-solid fa-ribbon"></i>
+                                </div>
+                                <div class="services__content-four">
+                                    <span>Mechanical Properties:</span>
+                                    <p>Tensile Strength : 200-300 N/mm2</p>
+                                    <p>Bending Strength: 1-1.8 J/cm2</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="container chemical-text aos-init aos-animate section-py-120" data-aos="fade-left">
+        <div class="row">
+            <div class="col-12">
+                <h4>Chemical Composition Range</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">C%</th>
+                                <th scope="col">Mn%</th>
+                                <th scope="col">Si%</th>
+                                <th scope="col">P%</th>
+                                <th scope="col">S%</th>
+                                <th scope="col">Ni%</th>
+                                <th scope="col">Cr%</th>
+                                <th scope="col">Mo%</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>3.10</td>
+                                <td>0.50</td>
+                                <td>0.60</td>
+                                <td>0.10</td>
+                                <td>0.05</td>
+                                <td>1.50</td>
+                                <td>0.60</td>
+                                <td>0.25</td>
+                            </tr>
+                            <tr>
+                                <td>3.60</td>
+                                <td>1.10</td>
+                                <td>1.70</td>
+                                <td>MAX</td>
+                                <td>MIN</td>
+                                <td>3.00</td>
+                                <td>1.50</td>
+                                <td>0.80</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="nine-sub">
+    <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
+        style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
+        <section class="history__area section-py-120">
+            <div class="container">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-lg-6 col-md-10 order-0 order-lg-2">
+                        <div class="history__img">
+                            <img src="assets/img/images/alloyCast.png" alt="img"
+                                class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
+                                data-wow-delay="0.2s"
+                                style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="history__content productRoll">
+                            <div class="section__title section__title-three white-title mb-25">
+                                <h2 class="title">ICDP & En-ICDP ROLLS</h2>
+                            </div>
+                            <p><strong>Characteristics :</strong>ICDP Rolls are centrifugally cast, which means that the Shell is Hard Alloyed material and contains high amounts of Cr, Mo & Ni and the Core is Softer Nodular Iron material. ICDP takes all advantages of Alloyed Indefinite Chill such as resistance to spalling, thermal cracks & wearability and gives good surface finish of rolled product, and further improves upon it by having a hard alloyed material as a working layer and a softer material at its core. This means that the softer core ensures good mechanical properties and resistance to thermal and mechanical loads.</p>
+                            <p><strong>Applications :</strong>These Rolls are suitable for Finishing Stands of Hot Strip Mill as Work Rolls.</p>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="services__item-four">
+                                    <div class="services__icon-four">
+                                        <i class="fa-solid fa-ribbon"></i>
+                                    </div>
+                                    <div class="services__content-four">
+                                        <span>Common Grades:</span>
+                                        <p>ICDP 73 (70° - 75° Sh C)</p>
+                                        <p>ICDP 78 (75° - 80° Sh C)</p>
+                                        <p>ICDP 83 (80° - 85° Sh C)</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="services__item-four">
+                                    <div class="services__icon-four">
+                                        <i class="fa-solid fa-ribbon"></i>
+                                    </div>
+                                    <div class="services__content-four">
+                                        <span>Mechanical Properties:</span>
+                                        <p>Tensile Strength : 400-450 N/mm2</p>
+                                        <p>Bending Strength: 1-2 J/cm2</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+    <div class="container chemical-text aos-init aos-animate section-py-120" data-aos="fade-right">
+        <div class="row">
+            <div class="col-12">
+                <h4 class="mb-4">Chemical Composition Range</h4>
+                <div class="table-responsive">
+                    <table class="table">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">C%</th>
+                                <th scope="col">Mn%</th>
+                                <th scope="col">Si%</th>
+                                <th scope="col">P%</th>
+                                <th scope="col">S%</th>
+                                <th scope="col">Ni%</th>
+                                <th scope="col">Cr%</th>
+                                <th scope="col">Mo%</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>3.00</td>
+                                <td>0.60</td>
+                                <td>0.80</td>
+                                <td>0.10</td>
+                                <td>0.05</td>
+                                <td>3.50</td>
+                                <td>1.00</td>
+                                <td>0.40</td>
+                            </tr>
+                            <tr>
+                                <td>3.50</td>
+                                <td>1.20</td>
+                                <td>1.20</td>
+                                <td>MAX</td>
+                                <td>MIN</td>
+                                <td>4.00</td>
+                                <td>1.50</td>
+                                <td>0.65</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="heading mt-4">
+                    <h4>QUALITY CONTROL - AN INTEGRAL ELEMENT</h4>
+                    <p>All the rolls are thoroughly inspected at various stages of production to ensure that the best quality product reaches our customers. Inspection is carried out by a team of dedicated Engineers using various metrological instruments. Firstly, Hardness is checked by Proceq Equotip Hardness tester at the roughing stage. Then, the roll is put through Non-Destructive Testing (NDT) to check for any internal flaws. After passing these tests, the rolls are sent for final machining. Lastly, final hardness is taken and rolls are measured to ensure everything is as per customer's drawings and specifications. Rolls are then packed as per Customer's specifications.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
 </main>
+<div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="3">Carbon Steel</th>
+                    <th colspan="3">Alloy Steel</th>
+                </tr>
+                <tr>
+                    <th>#</th>
+                    <th>Standard</th>
+                    <th>Grade</th>
+                    <th>#</th>
+                    <th>Standard</th>
+                    <th>Grade</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td data-label="Carbon Steel #">1</td>
+                    <td data-label="Carbon Steel Standard">ISO 4991:2015</td>
+                    <td data-label="Carbon Steel Grade">G20Mn5</td>
+                    <td data-label="Alloy Steel #">1</td>
+                    <td data-label="Alloy Steel Standard">ASTM A217</td>
+                    <td data-label="Alloy Steel Grade">Grade WC6</td>
+                </tr>
+                <tr>
+                    <td data-label="Carbon Steel #">2</td>
+                    <td data-label="Carbon Steel Standard">DIN 1681</td>
+                    <td data-label="Carbon Steel Grade">GS-52</td>
+                    <td data-label="Alloy Steel #">2</td>
+                    <td data-label="Alloy Steel Standard">ISO 14737:2015</td>
+                    <td data-label="Alloy Steel Grade">G10MnMoV6-3</td>
+                </tr>
+                <tr>
+                    <td data-label="Carbon Steel #">3</td>
+                    <td data-label="Carbon Steel Standard">IS 2708:1993</td>
+                    <td data-label="Carbon Steel Grade">All Grades</td>
+                    <td data-label="Alloy Steel #">3</td>
+                    <td data-label="Alloy Steel Standard">ASTM A148</td>
+                    <td data-label="Alloy Steel Grade">Grade 80-50</td>
+                </tr>
+                <tr>
+                    <td data-label="Carbon Steel #">4</td>
+                    <td data-label="Carbon Steel Standard">ISO 14737:2015</td>
+                    <td data-label="Carbon Steel Grade">GE 240+N</td>
+                    <td data-label="Alloy Steel #">4</td>
+                    <td data-label="Alloy Steel Standard">ASTM A148</td>
+                    <td data-label="Alloy Steel Grade">Grade 90-60</td>
+                </tr>
+                <tr>
+                    <td data-label="Carbon Steel #">5</td>
+                    <td data-label="Carbon Steel Standard">IS 1030:1998</td>
+                    <td data-label="Carbon Steel Grade">All Grades</td>
+                    <td data-label="Alloy Steel #">5</td>
+                    <td data-label="Alloy Steel Standard">ASTM A148</td>
+                    <td data-label="Alloy Steel Grade">Grade 105-85</td>
+                </tr>
+                <tr>
+                    <td data-label="Carbon Steel #">6</td>
+                    <td data-label="Carbon Steel Standard">ASTM A148</td>
+                    <td data-label="Carbon Steel Grade">Grade 80-40</td>
+                    <td data-label="Alloy Steel #">6</td>
+                    <td data-label="Alloy Steel Standard">IS 2644:1994</td>
+                    <td data-label="Alloy Steel Grade">All Grades</td>
+                </tr>
+                <tr>
+                    <td data-label="Carbon Steel #">7</td>
+                    <td data-label="Carbon Steel Standard">ASTM A216</td>
+                    <td data-label="Carbon Steel Grade">Grade WCA</td>
+                    <td data-label="Alloy Steel #">7</td>
+                    <td data-label="Alloy Steel Standard">BS970: 1955</td>
+                    <td data-label="Alloy Steel Grade">EN 19</td>
+                </tr>
+                <tr>
+                    <td data-label="Carbon Steel #">8</td>
+                    <td data-label="Carbon Steel Standard">ASTM A216</td>
+                    <td data-label="Carbon Steel Grade">Grade WCB</td>
+                    <td data-label="Alloy Steel #">8</td>
+                    <td data-label="Alloy Steel Standard">BS970: 1955</td>
+                    <td data-label="Alloy Steel Grade">EN 24</td>
+                </tr>
+                <tr>
+                    <td data-label="Carbon Steel #">9</td>
+                    <td data-label="Carbon Steel Standard">ASTM A216</td>
+                    <td data-label="Carbon Steel Grade">Grade WCC</td>
+                    <td data-label="Alloy Steel #">9</td>
+                    <td data-label="Alloy Steel Standard">ISO 14737:2015</td>
+                    <td data-label="Alloy Steel Grade">G42CrMo4</td>
+                </tr>
+                <tr>
+                    <td data-label="Carbon Steel #">10</td>
+                    <td data-label="Carbon Steel Standard">ASTM A27</td>
+                    <td data-label="Carbon Steel Grade">Grade 70-36</td>
+                    <td data-label="Alloy Steel #">10</td>
+                    <td data-label="Alloy Steel Standard">IS 4896:1992</td>
+                    <td data-label="Alloy Steel Grade">All Grades</td>
+                </tr>
+                <tr>
+                    <td data-label="Carbon Steel #">11</td>
+                    <td data-label="Carbon Steel Standard">ASTM A27</td>
+                    <td data-label="Carbon Steel Grade">Grade 70-40</td>
+                    <td data-label="Alloy Steel #">11</td>
+                    <td data-label="Alloy Steel Standard">PN H83161</td>
+                    <td data-label="Alloy Steel Grade">PN L70H2GNM</td>
+                </tr>
+                <tr>
+                    <td data-label="Carbon Steel #">12</td>
+                    <td data-label="Carbon Steel Standard">BS970: 1955</td>
+                    <td data-label="Carbon Steel Grade">EN 8</td>
+                    <td data-label="Alloy Steel #">12</td>
+                    <td data-label="Alloy Steel Standard">ASTM</td>
+                    <td data-label="Alloy Steel Grade">SS 410</td>
+                </tr>
+                <tr>
+                    <td data-label="Carbon Steel #">13</td>
+                    <td data-label="Carbon Steel Standard">IS 2707:1996</td>
+                    <td data-label="Carbon Steel Grade">All Grades</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td data-label="Carbon Steel #">14</td>
+                    <td data-label="Carbon Steel Standard">BS970: 1955</td>
+                    <td data-label="Carbon Steel Grade">EN 9</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 <!-- main-area-end -->
 
 <?php include 'include/scripts.php'; ?>

@@ -162,9 +162,9 @@
                                         <ul>
                                             <li>Consistent with the Vision and Values of our Chairman Sh. Parkash Chand Garg Ji to</li>
                                             <li>Become a World Class integrated facility for Automotive & Engineering products.</li>
+                                            <li>Become a leader in Indian Iron & Steel business by creating value and delivering innovative results for all our stakeholders and communities around us.</li>
                                             <li>Manufacturing excellence, quality, commitment to safety and reliability.</li>
                                             <li>Move towards Green Steel by sustainable use of Earth’s natural resources.</li>
-                                            <li>Become a leader in Indian Iron & Steel business by creating value and delivering innovative results for all our stakeholders and communities around us</li>
                                         </ul>
                                     </div>
                                 </div>
