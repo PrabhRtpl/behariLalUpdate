@@ -134,144 +134,7 @@
         </section>
         <!-- cta-area-end -->
 
-        <!-- team-area -->
-        <section class="team__area-two section-pt-120 section-pb-90">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-7">
-                        <div class="section__title section__title-three text-center mb-60">
-                            <span class="sub-title">Management</span>
-                            <h2 class="title">The team behind the successful Manufacturing company</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center gutter-24">
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
-                        <div class="team__item-two">
-                            <div class="team__thumb-two">
-                                <img src="assets/img/team/inner_team_img01.jpg" alt="img">
-                                <div class="team__social-two">
-                                    <ul class="list-wrap">
-                                        <li><a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
-                                        <li><a href="https://twitter.com/home" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team__content-two">
-                                <h2 class="title"><a href="javascript::void()">Dinesh Garg</a></h2>
-                                <span>Chairman</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
-                        <div class="team__item-two">
-                            <div class="team__thumb-two">
-                                <img src="assets/img/team/inner_team_img02.jpg" alt="img">
-                                <div class="team__social-two">
-                                    <ul class="list-wrap">
-                                        <li><a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
-                                        <li><a href="https://twitter.com/home" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team__content-two">
-                                <h2 class="title"><a href="javascript::void()">Dinesh Garg</a></h2>
-                                <span>Chairman</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
-                        <div class="team__item-two">
-                            <div class="team__thumb-two">
-                                <img src="assets/img/team/inner_team_img03.jpg" alt="img">
-                                <div class="team__social-two">
-                                    <ul class="list-wrap">
-                                        <li><a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
-                                        <li><a href="https://twitter.com/home" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team__content-two">
-                                <h2 class="title"><a href="javascript::void()">Dinesh Garg</a></h2>
-                                <span>Marketing Head</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
-                        <div class="team__item-two">
-                            <div class="team__thumb-two">
-                                <img src="assets/img/team/inner_team_img01.jpg" alt="img">
-                                <div class="team__social-two">
-                                    <ul class="list-wrap">
-                                        <li><a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
-                                        <li><a href="https://twitter.com/home" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
-                                        <li><a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team__content-two">
-                                <h2 class="title"><a href="javascript::void()">Dinesh Garg</a></h2>
-                                <span>Chairman</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- team-area-end -->
 
-        <!-- brand-area -->
-        <div class="brand__area section-pb-120">
-            <div class="container">
-                <div class="swiper brand-active">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="brand__item">
-                                <img src="assets/img/clients/client1.png" alt="img">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item">
-                                <img src="assets/img/clients/client2.png" alt="img">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item">
-                                <img src="assets/img/clients/client3.png" alt="img">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item">
-                                <img src="assets/img/clients/client4.png" alt="img">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item">
-                                <img src="assets/img/clients/client5.png" alt="img">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item">
-                                <img src="assets/img/clients/client6.png" alt="img">
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="brand__item">
-                                <img src="assets/img/clients/client7.png" alt="img">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- brand-area-end -->
 
 
         <section class="community__area section-py-120">
@@ -297,10 +160,11 @@
                                     <div class="content">
                                         <h4 class="title">Our Mission</h4>
                                         <ul>
-                                            <li>Consistent with the Vision and Values of our Chairman Sh. Parkash Chand Garg Ji to.</li>
+                                            <li>Consistent with the Vision and Values of our Chairman Sh. Parkash Chand Garg Ji to</li>
                                             <li>Become a World Class integrated facility for Automotive & Engineering products.</li>
                                             <li>Manufacturing excellence, quality, commitment to safety and reliability.</li>
                                             <li>Move towards Green Steel by sustainable use of Earth’s natural resources.</li>
+                                            <li>Become a leader in Indian Iron & Steel business by creating value and delivering innovative results for all our stakeholders and communities around us</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -312,7 +176,7 @@
                                     <div class="content">
                                         <h4 class="title">Our Vision</h4>
                                         <ul>
-                                            <li>Behari Lal Group envisage to become No. 1 Choice for World Class Steel Products in Quality, Productivity and Customer Satisfaction.</li>
+                                            <li>Behari Lal Group envisages to become No. 1 Choice for World Class Iron & Steel Products in Quality, Productivity and Customer Satisfaction</li>
                                         </ul>
                                     </div>
                                 </div>

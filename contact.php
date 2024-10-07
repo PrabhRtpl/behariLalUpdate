@@ -30,10 +30,19 @@
 		<div class="row gutter-24">
 			<div class="col-lg-4">
 				<div class="contact__info-wrap">
+				
 					<div class="contact__info-item">
-						<!-- <div class="contact__info-thumb">
-							<img src="assets/img/images/contact_img01.jpg" alt="img">
-						</div> -->
+						<div class="contact__info-content">
+							<div class="icon">
+							<i class="fa-solid fa-location-dot"></i>
+							</div>
+							<div class="content">
+								<span>Corporate Office</span>
+								<h2 class="title">B9, Surajmal Vihar, near Leela Ambience Hotel, Vikas Marg Exension, Delhi-110092</h2>
+							</div>
+						</div>
+					</div>
+					<div class="contact__info-item">
 						<div class="contact__info-content">
 							<div class="icon">
 							
@@ -46,16 +55,14 @@
 						</div>
 					</div>
 					<div class="contact__info-item">
-						<!-- <div class="contact__info-thumb">
-							<img src="assets/img/images/contact_img01.jpg" alt="img">
-						</div> -->
 						<div class="contact__info-content">
 							<div class="icon">
+							
 							<i class="fa-solid fa-location-dot"></i>
 							</div>
 							<div class="content">
-								<span>Corporate Office</span>
-								<h2 class="title">B9, Surajmal Vihar, near Leela Ambience Hotel, Vikas Marg Exension, Delhi-110092</h2>
+								<span>Head Office</span>
+								<h2 class="title">Village Turan, Amloh Road, Mandi Gobindgarh, Punjab-147301</h2>
 							</div>
 						</div>
 					</div>
