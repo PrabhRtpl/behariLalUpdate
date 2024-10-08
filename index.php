@@ -1,6 +1,6 @@
 <?php include 'include/head.php'; ?>
 <?php include 'include/navbar.php'; ?>
-<section class="hero">
+<!-- <section class="hero">
 	<div class="hero-section">
 		<div class="row">
 			<div class="col-lg-6 col-md-12">
@@ -17,12 +17,39 @@
 				</div>
 			</div>
 		</div>
-
 	</div>
-</section>
+</section> -->
+<!-- <section class="heroWrapper hero-carousel owl-theme">
+    <div class="heroImgHolder">
+        <img src="assets/img/banner/hero_main.png" alt="">
+    </div>
+    <div class="heroImgHolder">
+        <img src="assets/img/banner/hero_second.png" alt="">
+    </div>
+    <div class="heroImgHolder">
+        <img src="assets/img/banner/hero_third.png" alt="">
+    </div>
+</section> -->
+<div id="carouselExample" class="carousel slide">
+	<div class="carousel-inner">
+		<div class="carousel-item active">
+			<img src="assets/img/banner/hero_main.png" alt="">
+		</div>
+		<div class="carousel-item">
+			<img src="assets/img/banner/hero_main_2.png" alt="">
+		</div>
+	</div>
+	<button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="visually-hidden">Previous</span>
+	</button>
+	<button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="visually-hidden">Next</span>
+	</button>
+</div>
 <section class="container mt-5">
 	<div class="intro">
-
 		<div class="row">
 			<div class="col-12 col-md-12 col-lg-12 m-auto">
 				<h6 class="subHead intro-para">100 Years of Excellence</h6>
@@ -66,7 +93,7 @@
 		</div>
 		<div class="col-lg-2 col-md-2 col-sm-6 col-xs-12 m-auto">
 			<div class="feat">
-				<img src="assets/img/icons/awardIc.png" alt="Award Icon" data-aos="fade-up">
+				<img src="assets/img/icons/liquidMetal.png" alt="Award Icon" data-aos="fade-up">
 				<h4><span>72,000 MT </span> Liquid Metal Capacity</h4>
 				<!-- <p>Compliance with building Metals, and work to achieve the desired aesthetic and functional goals.
 				</p> -->
@@ -74,7 +101,7 @@
 		</div>
 		<div class="col-lg-2 col-md-2 col-sm-6 col-xs-12 m-auto">
 			<div class="feat">
-				<img src="assets/img/icons/awardIc.png" alt="Award Icon" data-aos="fade-up">
+				<img src="assets/img/icons/area.png" alt="Award Icon" data-aos="fade-up">
 				<h4><span>30 </span> Acres Total Area of Plant</h4>
 				<!-- <p>Compliance with building Metals, and work to achieve the desired aesthetic and functional goals.
 				</p> -->
@@ -86,7 +113,7 @@
 <!-- brand-area -->
 <div class="brand__area section-pb-120">
 	<div class="container">
-	<h6 class="subHead mb-5">Our Clients</h6>
+		<h6 class="subHead mb-5">Our Clients</h6>
 		<div class="swiper brand-active">
 			<div class="swiper-wrapper">
 				<div class="swiper-slide">
@@ -189,13 +216,14 @@
 		</div>
 	</div>
 </section>
-<section class="project__area project__bg" >
+<section class="project__area project__bg">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-xl-5 col-lg-6 col-md-8">
 				<div class="section__title white-title mb-70">
-				<h6 class="subHead">Products</h6>
-	<h2 class="secHead product-sub-heading-home">Behari Lal Group is a leading manufacturer of tailored, customer specific products in verticals of</h2>
+					<h6 class="subHead">Products</h6>
+					<h2 class="secHead product-sub-heading-home">Behari Lal Group is a leading manufacturer of tailored,
+						customer specific products in verticals of</h2>
 				</div>
 			</div>
 			<div class="col-lg-6 col-md-4">
@@ -221,7 +249,8 @@
 						</div>
 						<div class="project__content">
 							<div class="content">
-								<h2 class="title text-black"><a href="forged-shafts.php"> Forged Shafts and Blocks</a></h2>
+								<h2 class="title text-black"><a href="forged-shafts.php"> Forged Shafts and Blocks</a>
+								</h2>
 								<!-- <span>December 2023 - March 2024</span> -->
 							</div>
 							<!-- <div class="project__icon">
@@ -238,7 +267,7 @@
 						</div>
 						<div class="project__content">
 							<div class="content">
-								<h2 class="title text-black"><a href="metalRolls.php">  Metal Rolls</a></h2>
+								<h2 class="title text-black"><a href="metalRolls.php"> Metal Rolls</a></h2>
 								<!-- <span>December 2023 - March 2024</span> -->
 							</div>
 							<!-- <div class="project__icon">
@@ -255,7 +284,7 @@
 						</div>
 						<div class="project__content">
 							<div class="content">
-								<h2 class="title text-black"><a href="eng-casting.php">  Engineering Castings</a></h2>
+								<h2 class="title text-black"><a href="eng-casting.php"> Engineering Castings</a></h2>
 								<!-- <span>December 2023 - March 2024</span> -->
 							</div>
 							<!-- <div class="project__icon">
@@ -272,7 +301,7 @@
 						</div>
 						<div class="project__content">
 							<div class="content">
-								<h2 class="title text-black"><a href="carbon.php">  Carbon & Alloy Steel Bars</a></h2>
+								<h2 class="title text-black"><a href="carbon.php"> Carbon & Alloy Steel Bars</a></h2>
 								<!-- <span>December 2023 - March 2024</span> -->
 							</div>
 							<!-- <div class="project__icon">
@@ -289,7 +318,8 @@
 						</div>
 						<div class="project__content">
 							<div class="content">
-								<h2 class="title text-black"><a href="forging-ingots.php">Forging Quality Ingots</a></h2>
+								<h2 class="title text-black"><a href="forging-ingots.php">Forging Quality Ingots</a>
+								</h2>
 								<!-- <span>December 2023 - March 2024</span> -->
 							</div>
 							<!-- <div class="project__icon">
@@ -407,13 +437,13 @@
 	<h2 class="secHead text-center">Social Media Presence</h2>
 	<div class="row">
 		<div class="col-12 col-md-4 col-lg-4">
-		<img src="assets/img/linked_1.png" alt="">
+			<img src="assets/img/linked_1.png" alt="">
 		</div>
 		<div class="col-12 col-md-4 col-lg-4">
-		<img src="assets/img/linked_2.png" alt="">
+			<img src="assets/img/linked_2.png" alt="">
 		</div>
 		<div class="col-12 col-md-4 col-lg-4">
-		<img src="assets/img/linked_3.png" alt="">
+			<img src="assets/img/linked_3.png" alt="">
 		</div>
 	</div>
 	<!-- <div class="postContWrapper owl-carousel owl-theme">

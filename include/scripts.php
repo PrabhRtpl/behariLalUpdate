@@ -78,3 +78,17 @@
   });
 
 </script>
+<script>
+  // $(document).ready(function () {
+  //   $(".hero-carousel").owlCarousel({
+  //     items: 1,  
+  //       loop: true,
+  //       margin: 10,
+  //       nav: true, 
+  //       dots: true, 
+  //       autoplay: true, 
+  //       autoplayTimeout: 3000,
+  //   });
+  // });
+
+</script>

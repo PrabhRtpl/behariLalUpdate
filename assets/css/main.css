@@ -12686,17 +12686,18 @@ font-size: 24px;
 .features .feat {
   text-align: center;
   border: 1px solid var(--border);
-  padding: var(--spacingXxl);
+  padding: var(--spacingXl);
   position: relative;
 }
 
 .feat img {
+  width: 40%;
   margin-bottom: var(--spacingXl);
 }
 
 .feat h4 {
   margin-bottom: var(--spacingLg);
-  font-size: 20px;
+  font-size: 14px;
 }
 
 .features .feat.active {
@@ -12725,7 +12726,7 @@ font-size: 24px;
   height: 50px;
   display: block;
   position: absolute;
-  bottom: -20px;
+  bottom: -10px;
   left: -20px;
   background-repeat: no-repeat;
   background-position: center;
@@ -13533,5 +13534,14 @@ th {
 
 
 
+.heroWrapper {
+  width: 100%;
+  height: auto; /* Adjust based on your design */
+}
+
+.heroImgHolder img {
+  width: 100%;
+  height: auto; /* Ensure the image is responsive */
+}
 
 /* prabh karan css end */
