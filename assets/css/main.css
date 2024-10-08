@@ -13460,8 +13460,12 @@ section.misVis {
 }
 
 
-
-
+.awards:hover{
+  filter: grayscale(0);
+}
+.awards{
+  filter: grayscale(1);
+}
 
 .table-container {
   width: 100%;
