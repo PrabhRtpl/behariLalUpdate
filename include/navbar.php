@@ -46,15 +46,17 @@
         <li class="nav-item">
           <a class="nav-link" href="clients.php">Clients</a>
         </li>
+        
         <li class="nav-item">
           <a class="nav-link" href="csr.php">CSR</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="awards.php">Awards & Media</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="notice.php">Notice</a>
         </li>
-        <!-- <li class="nav-item">
-          <a class="nav-link" href="#">Market</a>
-        </li> -->
+     
         <li class="nav-item">
           <a class="nav-link" href="contact.php">Contact Us</a>
         </li>

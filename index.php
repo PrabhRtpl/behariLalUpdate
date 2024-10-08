@@ -20,7 +20,7 @@
 
 	</div>
 </section>
-<section class="container-fluid">
+<section class="container mt-5">
 	<div class="intro">
 
 		<div class="row">
@@ -35,7 +35,7 @@
 		</div>
 	</div>
 </section>
-<section class="featWrap container-fluid">
+<section class="my-5 container">
 	<h6 class="subHead">Our Feature</h6>
 	<h2 class="secHead">Raising the Bar in Steel Industry</h2>
 	<div class="row features">
@@ -86,6 +86,7 @@
 <!-- brand-area -->
 <div class="brand__area section-pb-120">
 	<div class="container">
+	<h6 class="subHead mb-5">Our Clients</h6>
 		<div class="swiper brand-active">
 			<div class="swiper-wrapper">
 				<div class="swiper-slide">

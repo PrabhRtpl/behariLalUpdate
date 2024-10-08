@@ -794,7 +794,7 @@
                                     <span>SPECIAL GRADES:</span>
                                     <p>SPIC (70° - 80° Sh C)</p>
                                 </div>
-                            </div>div>
+                            </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="services__item-four">
@@ -966,8 +966,7 @@
         </div>
     </div>
     </div>
-</main>
-<div class="table-container">
+    <div class="table-container container mb-5">
         <table>
             <thead>
                 <tr>
@@ -1099,6 +1098,8 @@
             </tbody>
         </table>
     </div>
+</main>
+
 <!-- main-area-end -->
 
 <?php include 'include/scripts.php'; ?>
