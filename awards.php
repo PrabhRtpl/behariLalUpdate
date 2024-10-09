@@ -12,7 +12,7 @@
                             <h2 class="title">Awards & Media</h2>
                             <nav class="breadcrumb">
                                 <span property="itemListElement" typeof="ListItem">
-                                    <a href="index.html">Home</a>
+                                    <a href="index.php">Home</a>
                                 </span>
                                 <span class="breadcrumb-separator">/</span>
                                 <span property="itemListElement" typeof="ListItem">Awards & Media </span>

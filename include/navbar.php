@@ -24,12 +24,12 @@
             <li><a class="dropdown-item" href="forged-shafts.php">Forged Shafts and Blocks</a></li>
           </ul>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="infra.php">Infrastructure</a>
-        </li>
+        </li> -->
        
         <li class="nav-item">
-          <a class="nav-link" href="#">Quality Assurance</a>
+          <a class="nav-link" href="quality.php">Quality Assurance</a>
         </li>
         <!-- <li class="nav-item">
           <a class="nav-link" href="assets/img/pdf/EC-letter.pdf">EIA</a>
@@ -43,20 +43,27 @@
             <li><a class="dropdown-item" href="#">Merger</a></li>
           </ul>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link" href="clients.php">Clients</a>
+        </li> -->
+         <li class="nav-item">
+          <a class="nav-link" href="hse.php">HSE</a>
         </li>
-        
         <li class="nav-item">
-          <a class="nav-link" href="csr.php">CSR</a>
+          <a class="nav-link" href="certificate.php">Certificate</a>
         </li>
+        <!-- <li class="nav-item">
+          <a class="nav-link" href="csr.php">CSR</a>
+        </li> -->
         <li class="nav-item">
           <a class="nav-link" href="awards.php">Awards & Media</a>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link" href="notice.php">Notice</a>
+        </li> -->
+        <li class="nav-item">
+          <a class="nav-link" href="career.php">Career</a>
         </li>
-     
         <li class="nav-item">
           <a class="nav-link" href="contact.php">Contact Us</a>
         </li>

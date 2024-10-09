@@ -954,7 +954,8 @@ textarea {
   text-transform: uppercase;
 }
 .breadcrumb__content .breadcrumb > * a {
-  color: var(--tg-body-color);
+  /* color: var(--tg-body-color); */
+  color: #fff;
 }
 .breadcrumb__content .breadcrumb > * a:hover {
   color: var(--tg-theme-primary);
@@ -963,7 +964,8 @@ textarea {
   line-height: 1;
   font-size: 16px;
   font-weight: 700;
-  color: var(--tg-body-color);
+  /* color: var(--tg-body-color); */
+  color: #fff;
 }
 
 /*=============================
@@ -3600,6 +3602,7 @@ textarea {
   }
 }
 .features__item {
+  height: 320px;
   margin-bottom: 30px;
   background: var(--tg-color-gray-2);
   border: 1px solid var(--tg-border-2);
@@ -3851,7 +3854,7 @@ textarea {
 }
 .features__content .title {
   margin-bottom: 12px;
-  font-size: 24px;
+  font-size: 22px;
 }
 .features__content p {
   margin-bottom: 22px;
@@ -4388,7 +4391,7 @@ textarea {
   display: flex;
   align-items: center;
   gap: 30px;
-  margin-left: -135px;
+  margin-left: 0px;
   margin-bottom: 50px;
   flex-wrap: wrap;
 }
@@ -9698,7 +9701,8 @@ font-size: 24px;
 .consultation__form-wrap {
   background: var(--tg-color-white-default);
   padding: 35px 40px 40px;
-  border: 30px solid var(--tg-theme-secondary);
+  /* border: 30px solid var(--tg-theme-secondary); */
+  box-shadow: 1px 5px 15px 4px #d5d5d5;
 }
 @media (max-width: 1199.98px) {
   .consultation__form-wrap {
@@ -12771,8 +12775,8 @@ section.featWrap {
 }
 
 .aboutWrapper h2 {
-  text-align: center;
-  width: 45%;
+  text-align: start;
+  width: 75%;
   margin: var(--spacingLg) auto var(--spacingXl) auto;
   color: var(--white);
 }
@@ -13143,9 +13147,9 @@ footer a:hover {
   font-size: 16px;
   font-weight: 500;
   padding: 1rem;
-  background: #ffdb60;
+  background: #d2ab67;
   width: 100%;
-  border: 1px solid #ffdb60;
+  border: 1px solid #d2ab67;
   text-decoration: unset;
 }
 .pdf-content a i {
@@ -13444,6 +13448,20 @@ section.misVis {
   margin-top: 20px;
   /* margin-bottom: 50px; */
 }
+.intro-para-history{
+  width: 100%;
+  font-size: 20px;
+  /* margin: auto; */
+  text-align: start;
+  margin-top: 0px;
+  /* margin-bottom: 50px; */
+}
+
+.sub-history-color{
+  color: #f2c425;
+}
+
+
 .product-sub-heading-home{
   font-size: 22px;
   text-transform: capitalize;
@@ -13525,6 +13543,66 @@ th {
 }
 
 
+/* .hero {
+  width: 100%;
+  height: 100vh;
+  background: #f1f9ff;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+} */
+
+.social-links {
+  display: flex;
+}
+
+.social-links a {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.05);
+  margin: 0 5px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.5s;
+}
+
+.social-links a .fab {
+  font-size: 20px;
+  line-height: 50px;
+  position: relative;
+  z-index: 10;
+  transition: color 0.5s;
+}
+
+.social-links a::after {
+  content: '';
+  width: 100%;
+  height: 100%;
+  top: -90px;
+  left: 0;
+  background: #000;
+  background: linear-gradient(-45deg, #ed1c94, #ffec17);
+  position: absolute;
+  transition: 0.5s;
+}
+
+.social-links a:hover::after {
+  top: 0;
+}
+
+.social-links a:hover .fab {
+  color: #fff;
+}
+
+.social-links a:hover {
+  transform: translateY(-10px);
+}
+
 
 
 
@@ -13543,5 +13621,7 @@ th {
   width: 100%;
   height: auto; /* Ensure the image is responsive */
 }
-
+.tick-metal{
+  margin-right: 10px;
+}
 /* prabh karan css end */

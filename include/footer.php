@@ -4,26 +4,35 @@
             <img src="assets/img/logo.png" alt="">
             <p class="cmpnyBrief">Committed to satisfy its customers by providing quality products consistently in
                 accordance with customer specific requirements.</p>
-            <div class="socialIc">
+            <!-- <div class="socialIc">
             <a href="https://www.linkedin.com/company/beharilalgroup"><img src="assets/img/icons/Link.png" alt=""></a>
-                <!-- <a href="javascript::void()"><img src="assets/img/icons/pint.png" alt=""></a> -->
-                <a href="https://www.instagram.com/beharilalgroup/"><img src="assets/img/icons/insta.png" alt=""></a>
-                <!-- <a href="javascript::void()"><img src="assets/img/icons/twitter.png" alt=""></a> -->
-                <a href="https://www.facebook.com/beharilalgroup"><img src="assets/img/icons/facebook.png" alt=""></a>
-                <a href="https://wa.me/9193163-20694" target="_blank"><img src="assets/img/icons/whatsapp.png" alt=""></a>
            
-            </div>
+                <a href="https://www.instagram.com/beharilalgroup/"><img src="assets/img/icons/insta.png" alt=""></a>
+  
+                <a href="https://www.facebook.com/beharilalgroup"><img src="assets/img/icons/facebook.png" alt=""></a>
+                <a href="https://wa.me/919316542014" target="_blank"><img src="assets/img/icons/whatsapp.png" alt=""></a>
+           
+            </div> -->
+            <div class="hero">
+      <div class="social-links">
+        
+      <a href="https://www.linkedin.com/company/beharilalgroup"><i class="fab fa-linkedin-in"></i></a>
+      <a href="https://www.instagram.com/beharilalgroup/"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.facebook.com/beharilalgroup"><i class="fab fa-facebook-f"></i></a>
+
+        <a href="https://wa.me/919316542014"><i class="fab fa-whatsapp"></i></a>
+        <!-- <a href=""><i class="fab fa-github"></i></a> -->
+      </div>
+    </div>
         </div>
         <div class="col-lg-2">
             <h3>Links</h3>
             <ul>
                 <li><a href="about.php">About Us</a></li>
-                <li><a href="">Products</a></li>
-                <li><a href="infra.php">Infrastructure</a></li>
-                <li><a href="clients.php">Clients</a></li>
-                <li><a href="csr.php">CSR</a></li>
-               
-                <!-- <li><a href="">Career</a></li> -->
+                <li><a href="quality.php">Quality Assurance</a></li>
+                <li><a href="hse.php">HSE</a></li>
+                <li><a href="certificate.php">Certificate</a></li>
+                <li><a href="awards.php">Awards & Media</a></li>
                 <li><a href="contact.php">Contact</a></li>
             </ul>
         </div>

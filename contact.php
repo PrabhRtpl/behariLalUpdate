@@ -12,7 +12,7 @@
                             <h2 class="title">Contact Us</h2>
                             <nav class="breadcrumb">
                                 <span property="itemListElement" typeof="ListItem">
-                                    <a href="index.html">Home</a>
+                                    <a href="index.php">Home</a>
                                 </span>
                                 <span class="breadcrumb-separator">/</span>
                                 <span property="itemListElement" typeof="ListItem">Contact Us</span>
@@ -49,7 +49,7 @@
 							<i class="fa-solid fa-location-dot"></i>
 							</div>
 							<div class="content">
-								<span>Head Office</span>
+								<span>Registered Office</span>
 								<h2 class="title">Village Salani, Amloh Road, Mandi Gobindgarh, Punjab-147301</h2>
 							</div>
 						</div>

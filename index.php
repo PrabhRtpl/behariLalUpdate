@@ -70,7 +70,7 @@
 			<div class="feat">
 				<!-- <img src="assets/img/icons/workerIc.png" alt="worker icon" data-aos="fade-up"> -->
 				<img src="assets/img/icons/workerIc.png" alt="worker icon" data-aos="fade-up">
-				<h4><span>100+</span> Years Experience</h4>
+				<h4><span>1000+</span> Years Experience</h4>
 				<!-- <p>Compliance with building Metals, and work to achieve the desired aesthetic and functional goals.
 				</p> -->
 			</div>
@@ -163,7 +163,7 @@
 <!-- brand-area-end -->
 
 <section class="container-fluid aboutWrapper">
-	<h6 class="subHead yellow">About Our Company</h6>
+	<!-- <h6 class="subHead yellow">About Our Company</h6>
 	<h2 class="secHead white">Empowering Visions Through Solid Construction</h2>
 	<div class="row align-items-center">
 		<div class="col-lg-3 col-sm-12 col-xs-12">
@@ -214,9 +214,103 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
+	<div class="row gutter-24 justify-content-center align-items-center">
+                    <div class="col-lg-6 col-md-10">
+                        <div class="about__img-four wow img-custom-anim-left  animated" data-wow-duration="1.5s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
+                            <img src="assets/img/about.png" alt="img">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about__content-four">
+                            <div class="section__title section__title-three mb-30">
+                                <span class="sub-title">More About Us</span>
+                                <h2 class="title">Empowering Visions Through Solid Construction</h2>
+                            </div>
+                            <p>Globally maintain high payoff collaboration and idea sharing after viral solutions. Objectively leading are edge mindshare rather than premier testing pursue professional customer service revolutionary services drive proactive relationships through...</p>
+                            <div class="about__content-four-inner">
+                                <img src="assets/img/about-1.jpg" alt="img" class="wow img-custom-anim-top  animated" data-wow-duration="1.5s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-top;">
+                                <ul class="list-wrap about__inner-list">
+                                    <li><i class="fas fa-check-circle"></i>Professional Construction Service</li>
+                                    <li><i class="fas fa-check-circle"></i>24/7 Consultancy Services Available</li>
+                                    <li><i class="fas fa-check-circle"></i>Unlimited Expert Team Members</li>
+                                    <li><i class="fas fa-check-circle"></i>More Than 25 Years of Experience</li>
+                                </ul>
+                            </div>
+                            <div class="about__content-four-bottom">
+                                <!-- <div class="about__author">
+                                    <div class="thumb">
+                                        <img src="assets/img/images/about_author.png" alt="img">
+                                    </div>
+                                    <div class="content">
+                                        <h4 class="title">Daniel H. Smith</h4>
+                                        <span>Founder &amp; Ceo</span>
+                                    </div>
+                                </div> -->
+                                <a href="about.html" class="btn btn-two">More About Us 
+									<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" data-inject-url="https://themegenix.com/demo/renova/assets/img/icons/right_arrow.svg" class="injectable">
+<path d="M10.0208 3.41421L1.41421 12.0208L0 10.6066L8.60659 2H1.02082V0H12.0208V11H10.0208V3.41421Z" fill="currentcolor"></path>
+<path d="M10.0208 3.41421L1.41421 12.0208L0 10.6066L8.60659 2H1.02082V0H12.0208V11H10.0208V3.41421Z" fill="currentcolor"></path>
+</svg>
+</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 </section>
-<section class="project__area project__bg">
+
+<!-- <section class="about__area-four grey-bg section-py-120">
+            <div class="container">
+                <div class="row gutter-24 justify-content-center align-items-center">
+                    <div class="col-lg-6 col-md-10">
+                        <div class="about__img-four wow img-custom-anim-left  animated" data-wow-duration="1.5s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
+                            <img src="assets/img/images/h2_about_img01.jpg" alt="img">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about__content-four">
+                            <div class="section__title section__title-three mb-30">
+                                <span class="sub-title">More About Us</span>
+                                <h2 class="title">We are qualified &amp; of experience in this field</h2>
+                            </div>
+                            <p>Globally maintain high payoff collaboration and idea sharing after viral solutions. Objectively leading are edge mindshare rather than premier testing pursue professional customer service revolutionary services drive proactive relationships through...</p>
+                            <div class="about__content-four-inner">
+                                <img src="assets/img/images/h2_about_img02.jpg" alt="img" class="wow img-custom-anim-top  animated" data-wow-duration="1.5s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-top;">
+                                <ul class="list-wrap about__inner-list">
+                                    <li><i class="fas fa-check-circle"></i>Professional Construction Service</li>
+                                    <li><i class="fas fa-check-circle"></i>24/7 Consultancy Services Available</li>
+                                    <li><i class="fas fa-check-circle"></i>Unlimited Expert Team Members</li>
+                                    <li><i class="fas fa-check-circle"></i>More Than 25 Years of Experience</li>
+                                </ul>
+                            </div>
+                            <div class="about__content-four-bottom">
+                                <div class="about__author">
+                                    <div class="thumb">
+                                        <img src="assets/img/images/about_author.png" alt="img">
+                                    </div>
+                                    <div class="content">
+                                        <h4 class="title">Daniel H. Smith</h4>
+                                        <span>Founder &amp; Ceo</span>
+                                    </div>
+                                </div>
+                                <a href="about.html" class="btn btn-two">More About Us <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" data-inject-url="https://themegenix.com/demo/renova/assets/img/icons/right_arrow.svg" class="injectable">
+<path d="M10.0208 3.41421L1.41421 12.0208L0 10.6066L8.60659 2H1.02082V0H12.0208V11H10.0208V3.41421Z" fill="currentcolor"></path>
+<path d="M10.0208 3.41421L1.41421 12.0208L0 10.6066L8.60659 2H1.02082V0H12.0208V11H10.0208V3.41421Z" fill="currentcolor"></path>
+</svg></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </section> -->
+
+
+
+
+
+
+
+<!-- <section class="project__area project__bg">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-xl-5 col-lg-6 col-md-8">
@@ -251,11 +345,9 @@
 							<div class="content">
 								<h2 class="title text-black"><a href="forged-shafts.php"> Forged Shafts and Blocks</a>
 								</h2>
-								<!-- <span>December 2023 - March 2024</span> -->
+						
 							</div>
-							<!-- <div class="project__icon">
-								<a href="project-details.html"><i class="fas fa-plus"></i></a>
-							</div> -->
+						
 						</div>
 					</div>
 				</div>
@@ -268,11 +360,9 @@
 						<div class="project__content">
 							<div class="content">
 								<h2 class="title text-black"><a href="metalRolls.php"> Metal Rolls</a></h2>
-								<!-- <span>December 2023 - March 2024</span> -->
+						
 							</div>
-							<!-- <div class="project__icon">
-								<a href="project-details.html"><i class="fas fa-plus"></i></a>
-							</div> -->
+							
 						</div>
 					</div>
 				</div>
@@ -285,11 +375,9 @@
 						<div class="project__content">
 							<div class="content">
 								<h2 class="title text-black"><a href="eng-casting.php"> Engineering Castings</a></h2>
-								<!-- <span>December 2023 - March 2024</span> -->
+						
 							</div>
-							<!-- <div class="project__icon">
-								<a href="project-details.html"><i class="fas fa-plus"></i></a>
-							</div> -->
+						
 						</div>
 					</div>
 				</div>
@@ -302,11 +390,9 @@
 						<div class="project__content">
 							<div class="content">
 								<h2 class="title text-black"><a href="carbon.php"> Carbon & Alloy Steel Bars</a></h2>
-								<!-- <span>December 2023 - March 2024</span> -->
+								
 							</div>
-							<!-- <div class="project__icon">
-								<a href="project-details.html"><i class="fas fa-plus"></i></a>
-							</div> -->
+						
 						</div>
 					</div>
 				</div>
@@ -320,11 +406,9 @@
 							<div class="content">
 								<h2 class="title text-black"><a href="forging-ingots.php">Forging Quality Ingots</a>
 								</h2>
-								<!-- <span>December 2023 - March 2024</span> -->
+							
 							</div>
-							<!-- <div class="project__icon">
-								<a href="project-details.html"><i class="fas fa-plus"></i></a>
-							</div> -->
+							
 						</div>
 					</div>
 				</div>
@@ -332,41 +416,59 @@
 			<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
 		</div>
 	</div>
-</section>
-<!-- <section class="featWrap container-fluid">
+</section> -->
+<section class="featWrap container-fluid">
 	<h6 class="subHead">Products</h6>
 	<h2 class="secHead product-sub-heading-home">Behari Lal Group is a leading manufacturer of tailored, customer specific products in verticals of</h2>
 	<p> </p>
 	<div class="row features">
-		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+		<div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 m-auto">
 			<div class="product" data-aos="fade-right" data-aos-duration="1500">
 				<img src="assets/img/metalRoll.png" alt="worker icon">
 				<div class="prdctName">
 					<h5>METAL ROLLS</h5>
-					<a href="javascript::void()"><i class="fa-solid fa-arrow-right"></i></a>
+					<a href="metalRolls.php"><i class="fa-solid fa-arrow-right"></i></a>
 				</div>
 			</div>
 		</div>
-		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+		<div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 m-auto">
 			<div class="product" data-aos="fade-up" data-aos-duration="1500">
 				<img src="assets/img/engCastings.png" alt="worker icon">
 				<div class="prdctName">
 					<h5>Engineering Castings</h5>
-					<a href="javascript::void()"><i class="fa-solid fa-arrow-right"></i></a>
+					<a href="eng-casting.php"><i class="fa-solid fa-arrow-right"></i></a>
 				</div>
 			</div>
 		</div>
-		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+		<div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 m-auto">
 			<div class="product" data-aos="fade-left" data-aos-duration="1500">
 				<img src="assets/img/steelRounds.png" alt="worker icon">
 				<div class="prdctName">
-					<h5>Alloy Steel Round & Flats</h5>
+					<h5>Carbon & Alloy Steel Bars</h5>
+					<a href="carbon.php"><i class="fa-solid fa-arrow-right"></i></a>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 m-auto">
+			<div class="product" data-aos="fade-left" data-aos-duration="1500">
+				<img src="assets/img/steelRounds.png" alt="worker icon">
+				<div class="prdctName">
+					<h5>Forging Quality Ingots</h5>
+					<a href="forging-ingots.php"><i class="fa-solid fa-arrow-right"></i></a>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 m-auto">
+			<div class="product" data-aos="fade-left" data-aos-duration="1500">
+				<img src="assets/img/steelRounds.png" alt="worker icon">
+				<div class="prdctName">
+					<h5>Forged Shafts and Blocks</h5>
 					<a href="javascript::void()"><i class="fa-solid fa-arrow-right"></i></a>
 				</div>
 			</div>
 		</div>
 	</div>
-</section> -->
+</section>
 <section class="container-fluid infra">
 	<div class="video-section">
 		<div class="thumbnail">

@@ -4,15 +4,15 @@
 <main class="main-area fix">
 
     <!-- breadcrumb-area -->
-    <div class="breadcrumb__area breadcrumb__bg" data-background="assets/img/banner/aboutBanner.jpg">
+    <div class="breadcrumb__area breadcrumb__bg" data-background="assets/img/banner/products.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcrumb__content">
                         <h2 class="title">Products</h2>
                         <nav class="breadcrumb">
-                            <span property="itemListElement" typeof="ListItem">
-                                <a href="index.html">Products</a>
+                        <span property="itemListElement" typeof="ListItem">
+                                <a href="products.php">Products</a>
                             </span>
                             <span class="breadcrumb-separator">/</span>
                             <span property="itemListElement" typeof="ListItem">CARBON AND ALLOY STEEL BARS</span>

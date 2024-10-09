@@ -12,7 +12,7 @@
                             <h2 class="title">About Us</h2>
                             <nav class="breadcrumb">
                                 <span property="itemListElement" typeof="ListItem">
-                                    <a href="index.html">Home</a>
+                                    <a href="index.php">Home</a>
                                 </span>
                                 <span class="breadcrumb-separator">/</span>
                                 <span property="itemListElement" typeof="ListItem">About Us</span>
@@ -23,7 +23,20 @@
             </div>
         </div>
         <!-- breadcrumb-area-end -->
-
+        <section class="container mt-5">
+	<div class="intro">
+		<div class="row">
+			<div class="col-12 col-md-12 col-lg-12 m-auto">
+				<h6 class="subHead intro-para">History of the company</h6>
+				<p class="intro-para-history ">The family business was founded by Late Sh. Behari Lal Garg Ji in 1910 in Patiala, Punjab. His son Sh. Parkash Chand Garg Ji expanded their footprint by establishing Behari Lal & Sons in 1960 as a Steel Commodities Trading Concern in Mandi Gobindgarh. Over the years, we have continuously expanded our horizons. Our Trading concern dealing in Steel Billets, Sponge Iron/DRI and Ferro Alloys with a presence over North India has a turnover of more than 500 Crores.</p>
+                <!-- <p class="intro-para-history sub-history-color">Over the years, we have continuously expanded our horizons.</p> -->
+                <!-- <p class="intro-para-history sub-history-color">Our Trading concern dealing in Steel Billets, Sponge Iron/DRI and Ferro Alloys with a presence over North India has a turnover of more than 500 Crores.</p> -->
+                <p class="intro-para-history sub-history-color">Our works at Village Salani, Mandi Gobindgarh started operations in February 2012.</p>
+                <p class="intro-para-history sub-history-color">Our works at Village Turan, Mandi Gobindgarh started operations in March 2022.</p>
+			</div>
+		</div>
+	</div>
+</section>
        <!-- about-area -->
        <section class="about__area-two section-py-120">
             <div class="container">

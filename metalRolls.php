@@ -4,7 +4,7 @@
 <main class="main-area fix">
 
     <!-- breadcrumb-area -->
-    <div class="breadcrumb__area breadcrumb__bg" data-background="assets/img/banner/aboutBanner.jpg">
+    <div class="breadcrumb__area breadcrumb__bg" data-background="assets/img/banner/products.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -12,7 +12,7 @@
                         <h2 class="title">Products</h2>
                         <nav class="breadcrumb">
                             <span property="itemListElement" typeof="ListItem">
-                                <a href="index.html">Products</a>
+                                <a href="products.php">Products</a>
                             </span>
                             <span class="breadcrumb-separator">/</span>
                             <span property="itemListElement" typeof="ListItem">Metal Rolls</span>
@@ -43,20 +43,20 @@
                         <p>We are engaged in Manufacturing of Rolls for Rolling Mills in various grades, designed and customised so as to cater to our customer’s needs. Behari Lal Rolls has emerged as a strong performer when it comes to competence, efficiency, performance and deliverance, and has become one of the leading Rolls manufacturers in India.</p>
                         <p>The Rolls division is headed by a team of professionals and technical experts having an extensive experience of more than 25 years in the Rolls industry and are capable of handling even the most critical jobs. Currently we are manufacturing Rolls and Rings of up to 1200mm in diameter and finish weight of 14 M.T.</p>
                         <div class="about__content-four-inner">
-                            <img src="assets/img/images/grades.png" alt="img" class="wow img-custom-anim-top  animated"
+                            <!-- <img src="assets/img/images/grades.png" alt="img" class="wow img-custom-anim-top  animated"
                                 data-wow-duration="1.5s" data-wow-delay="0.2s"
-                                style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-top;">
+                                style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-top;"> -->
                                 <ul class="list-wrap about__inner-list">
-                                <h6>Grades of Metal Rolls</h6>
-                                <li><i class="fas fa-check-circle"></i>Alloy Cast Steel Rolls</li>
-                                <li><i class="fas fa-check-circle"></i>Alloy Steel Base Adamite Rolls</li>
-                                <li><i class="fas fa-check-circle"></i>Graphitic Steel Rolls</li>
-                                <li><i class="fas fa-check-circle"></i>High Speed Steel (HSS) Rolls</li>
-                                <li><i class="fas fa-check-circle"></i>S.G. Iron Ferritic Rolls</li>
-                                <li><i class="fas fa-check-circle"></i>S.G. Iron Pearlitic Rolls</li>
-                                <li><i class="fas fa-check-circle"></i>S.G. Iron Bainitic-Acicular Rolls</li>
-                                <li><i class="fas fa-check-circle"></i>Alloyed Indefinite Chill Rolls</li>
-                                <li><i class="fas fa-check-circle"></i>ICDP Rolls</li>
+                                <!-- <h6>Grades of Metal Rolls</h6> -->
+                                <li><a href="#metal1"><i class="fas fa-check-circle tick-metal"></i>Alloy Cast Steel Rolls</a></li>
+                                <li><a href="#metal2"><i class="fas fa-check-circle tick-metal"></i>Alloy Steel Base Adamite Rolls</a></li>
+                                <li><a href="#metal3"><i class="fas fa-check-circle tick-metal"></i>Graphitic Steel Rolls</a></li>
+                                <li><a href="#metal4"><i class="fas fa-check-circle tick-metal"></i>High Speed Steel (HSS) Rolls</a></li>
+                                <li><a href="#metal5"><i class="fas fa-check-circle tick-metal"></i>S.G. Iron Ferritic Rolls</a></li>
+                                <li><a href="#metal6"><i class="fas fa-check-circle tick-metal"></i>S.G. Iron Pearlitic Rolls</a></li>
+                                <li><a href="#metal7"><i class="fas fa-check-circle tick-metal"></i>S.G. Iron Bainitic-Acicular Rolls</a></li>
+                                <li><a href="#metal8"><i class="fas fa-check-circle tick-metal"></i>Alloyed Indefinite Chill Rolls</a></li>
+                                <li><a href="#metal9"><i class="fas fa-check-circle tick-metal"></i>ICDP Rolls</a></li>
                             </ul>
                         </div>
                     </div>
@@ -64,13 +64,13 @@
             </div>
         </div>
     </section>
-    <div class="one-sub">
+    <div class="one-sub" id="metal1">
     <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
         style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
         <section class="history__area section-py-120">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-6 col-md-10 order-0 order-lg-2">
+                    <div class="col-lg-6 col-md-10 order-0 order-lg-2" >
                         <div class="history__img">
                             <img src="assets/img/images/alloyCast.png" alt="img"
                                 class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
@@ -78,7 +78,7 @@
                                 style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 " >
                         <div class="history__content productRoll">
                             <div class="section__title section__title-three white-title mb-25">
                                 <h2 class="title">ALLOY CAST STEEL ROLLS</h2>
@@ -161,13 +161,13 @@
         </div>
     </div>
     </div>
-    <div class="two-sub">
+    <div class="two-sub" id="metal2">
     <section class="history__area section-py-120 grey-bg">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="history__img">
-                        <img src="assets/img/images/alloyCast.png" alt="img" class="wow img-custom-anim-left  animated"
+                        <img src="assets/img/images/2.jpg" alt="img" class="wow img-custom-anim-left  animated"
                             data-wow-duration="1.5s" data-wow-delay="0.2s"
                             style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
                     </div>
@@ -258,7 +258,7 @@
         </div>
     </div>
     </div>
-    <div class="three-sub">
+    <div class="three-sub" id="metal3">
     <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
         style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
         <section class="history__area section-py-120">
@@ -266,7 +266,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-10 order-0 order-lg-2">
                         <div class="history__img">
-                            <img src="assets/img/images/alloyCast.png" alt="img"
+                            <img src="assets/img/images/3.jpg" alt="img"
                                 class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
                                 data-wow-delay="0.2s"
                                 style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
@@ -358,13 +358,13 @@
         </div>
     </div>
     </div>
-    <div class="four-sub">
+    <div class="four-sub" id="metal4">
     <section class="history__area section-py-120 grey-bg">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="history__img">
-                        <img src="assets/img/images/alloyCast.png" alt="img" class="wow img-custom-anim-left  animated"
+                        <img src="assets/img/images/4.jpg" alt="img" class="wow img-custom-anim-left  animated"
                             data-wow-duration="1.5s" data-wow-delay="0.2s"
                             style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
                     </div>
@@ -455,7 +455,7 @@
         </div>
     </div>
     </div>
-    <div class="five-sub">
+    <div class="five-sub" id="metal5">
     <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
         style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
         <section class="history__area section-py-120">
@@ -555,7 +555,7 @@
         </div>
     </div>
     </div>
-    <div class="six-sub">
+    <div class="six-sub" id="metal6">
     <section class="history__area section-py-120 grey-bg">
         <div class="container">
             <div class="row align-items-center justify-content-center">
@@ -652,7 +652,7 @@
         </div>
     </div>
     </div>
-    <div class="seven-sub">
+    <div class="seven-sub" id="metal7">
     <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
         style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
         <section class="history__area section-py-120">
@@ -660,7 +660,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-10 order-0 order-lg-2">
                         <div class="history__img">
-                            <img src="assets/img/images/alloyCast.png" alt="img"
+                            <img src="assets/img/images/7.jpg" alt="img"
                                 class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
                                 data-wow-delay="0.2s"
                                 style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
@@ -753,13 +753,13 @@
         </div>
     </div>
     </div>
-    <div class="eight-sub">
+    <div class="eight-sub" id="metal8">
     <section class="history__area section-py-120 grey-bg">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="history__img">
-                        <img src="assets/img/images/alloyCast.png" alt="img" class="wow img-custom-anim-left  animated"
+                        <img src="assets/img/images/8.jpg" alt="img" class="wow img-custom-anim-left  animated"
                             data-wow-duration="1.5s" data-wow-delay="0.2s"
                             style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
                     </div>
@@ -859,7 +859,7 @@
         </div>
     </div>
     </div>
-    <div class="nine-sub">
+    <div class="nine-sub" id="metal9">
     <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
         style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
         <section class="history__area section-py-120">
@@ -867,7 +867,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-10 order-0 order-lg-2">
                         <div class="history__img">
-                            <img src="assets/img/images/alloyCast.png" alt="img"
+                            <img src="assets/img/images/9.jpg" alt="img"
                                 class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
                                 data-wow-delay="0.2s"
                                 style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
@@ -966,138 +966,7 @@
         </div>
     </div>
     </div>
-    <div class="table-container container mb-5">
-        <table>
-            <thead>
-                <tr>
-                    <th colspan="3">Carbon Steel</th>
-                    <th colspan="3">Alloy Steel</th>
-                </tr>
-                <tr>
-                    <th>#</th>
-                    <th>Standard</th>
-                    <th>Grade</th>
-                    <th>#</th>
-                    <th>Standard</th>
-                    <th>Grade</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td data-label="Carbon Steel #">1</td>
-                    <td data-label="Carbon Steel Standard">ISO 4991:2015</td>
-                    <td data-label="Carbon Steel Grade">G20Mn5</td>
-                    <td data-label="Alloy Steel #">1</td>
-                    <td data-label="Alloy Steel Standard">ASTM A217</td>
-                    <td data-label="Alloy Steel Grade">Grade WC6</td>
-                </tr>
-                <tr>
-                    <td data-label="Carbon Steel #">2</td>
-                    <td data-label="Carbon Steel Standard">DIN 1681</td>
-                    <td data-label="Carbon Steel Grade">GS-52</td>
-                    <td data-label="Alloy Steel #">2</td>
-                    <td data-label="Alloy Steel Standard">ISO 14737:2015</td>
-                    <td data-label="Alloy Steel Grade">G10MnMoV6-3</td>
-                </tr>
-                <tr>
-                    <td data-label="Carbon Steel #">3</td>
-                    <td data-label="Carbon Steel Standard">IS 2708:1993</td>
-                    <td data-label="Carbon Steel Grade">All Grades</td>
-                    <td data-label="Alloy Steel #">3</td>
-                    <td data-label="Alloy Steel Standard">ASTM A148</td>
-                    <td data-label="Alloy Steel Grade">Grade 80-50</td>
-                </tr>
-                <tr>
-                    <td data-label="Carbon Steel #">4</td>
-                    <td data-label="Carbon Steel Standard">ISO 14737:2015</td>
-                    <td data-label="Carbon Steel Grade">GE 240+N</td>
-                    <td data-label="Alloy Steel #">4</td>
-                    <td data-label="Alloy Steel Standard">ASTM A148</td>
-                    <td data-label="Alloy Steel Grade">Grade 90-60</td>
-                </tr>
-                <tr>
-                    <td data-label="Carbon Steel #">5</td>
-                    <td data-label="Carbon Steel Standard">IS 1030:1998</td>
-                    <td data-label="Carbon Steel Grade">All Grades</td>
-                    <td data-label="Alloy Steel #">5</td>
-                    <td data-label="Alloy Steel Standard">ASTM A148</td>
-                    <td data-label="Alloy Steel Grade">Grade 105-85</td>
-                </tr>
-                <tr>
-                    <td data-label="Carbon Steel #">6</td>
-                    <td data-label="Carbon Steel Standard">ASTM A148</td>
-                    <td data-label="Carbon Steel Grade">Grade 80-40</td>
-                    <td data-label="Alloy Steel #">6</td>
-                    <td data-label="Alloy Steel Standard">IS 2644:1994</td>
-                    <td data-label="Alloy Steel Grade">All Grades</td>
-                </tr>
-                <tr>
-                    <td data-label="Carbon Steel #">7</td>
-                    <td data-label="Carbon Steel Standard">ASTM A216</td>
-                    <td data-label="Carbon Steel Grade">Grade WCA</td>
-                    <td data-label="Alloy Steel #">7</td>
-                    <td data-label="Alloy Steel Standard">BS970: 1955</td>
-                    <td data-label="Alloy Steel Grade">EN 19</td>
-                </tr>
-                <tr>
-                    <td data-label="Carbon Steel #">8</td>
-                    <td data-label="Carbon Steel Standard">ASTM A216</td>
-                    <td data-label="Carbon Steel Grade">Grade WCB</td>
-                    <td data-label="Alloy Steel #">8</td>
-                    <td data-label="Alloy Steel Standard">BS970: 1955</td>
-                    <td data-label="Alloy Steel Grade">EN 24</td>
-                </tr>
-                <tr>
-                    <td data-label="Carbon Steel #">9</td>
-                    <td data-label="Carbon Steel Standard">ASTM A216</td>
-                    <td data-label="Carbon Steel Grade">Grade WCC</td>
-                    <td data-label="Alloy Steel #">9</td>
-                    <td data-label="Alloy Steel Standard">ISO 14737:2015</td>
-                    <td data-label="Alloy Steel Grade">G42CrMo4</td>
-                </tr>
-                <tr>
-                    <td data-label="Carbon Steel #">10</td>
-                    <td data-label="Carbon Steel Standard">ASTM A27</td>
-                    <td data-label="Carbon Steel Grade">Grade 70-36</td>
-                    <td data-label="Alloy Steel #">10</td>
-                    <td data-label="Alloy Steel Standard">IS 4896:1992</td>
-                    <td data-label="Alloy Steel Grade">All Grades</td>
-                </tr>
-                <tr>
-                    <td data-label="Carbon Steel #">11</td>
-                    <td data-label="Carbon Steel Standard">ASTM A27</td>
-                    <td data-label="Carbon Steel Grade">Grade 70-40</td>
-                    <td data-label="Alloy Steel #">11</td>
-                    <td data-label="Alloy Steel Standard">PN H83161</td>
-                    <td data-label="Alloy Steel Grade">PN L70H2GNM</td>
-                </tr>
-                <tr>
-                    <td data-label="Carbon Steel #">12</td>
-                    <td data-label="Carbon Steel Standard">BS970: 1955</td>
-                    <td data-label="Carbon Steel Grade">EN 8</td>
-                    <td data-label="Alloy Steel #">12</td>
-                    <td data-label="Alloy Steel Standard">ASTM</td>
-                    <td data-label="Alloy Steel Grade">SS 410</td>
-                </tr>
-                <tr>
-                    <td data-label="Carbon Steel #">13</td>
-                    <td data-label="Carbon Steel Standard">IS 2707:1996</td>
-                    <td data-label="Carbon Steel Grade">All Grades</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td data-label="Carbon Steel #">14</td>
-                    <td data-label="Carbon Steel Standard">BS970: 1955</td>
-                    <td data-label="Carbon Steel Grade">EN 9</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
+  
 </main>
 
 <!-- main-area-end -->

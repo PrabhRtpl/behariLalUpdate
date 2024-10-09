@@ -26,8 +26,8 @@
 
     <!-- services-area -->
     <section class="featWrap container-fluid section-pt-120 section-pb-95">
-        <h6 class="subHead">What We Offer</h6>
-        <h2 class="secHead">Popular Products</h2>
+        <h6 class="subHead">Products</h6>
+        <h2 class="secHead product-sub-heading-home">Behari Lal Group is a leading manufacturer of tailored, customer specific products in verticals of</h2>
         <div class="row features">
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pb-5">
                 <div class="product" data-aos="fade-right" data-aos-duration="1500">
