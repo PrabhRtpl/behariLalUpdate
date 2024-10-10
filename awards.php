@@ -4,7 +4,7 @@
     <main class="main-area fix">
 
         <!-- breadcrumb-area -->
-        <div class="breadcrumb__area breadcrumb__bg" data-background="assets/img/banner/contact.jpg">
+        <div class="breadcrumb__area breadcrumb__bg" data-background="assets/img/banner/awards.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">

@@ -65,6 +65,9 @@
           <a class="nav-link" href="career.php">Career</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="vendor.php">Vendor Registration</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="contact.php">Contact Us</a>
         </li>
       </ul>

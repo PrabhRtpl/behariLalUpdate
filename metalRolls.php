@@ -88,7 +88,7 @@
                         </div>
                         <div class="row">
                             <div class="col-lg-6">
-                                <div class="services__item-four">
+                                <div class="services__item-four grades-height ">
                                     <div class="services__icon-four">
                                         <i class="fa-solid fa-ribbon"></i>
                                     </div>
@@ -100,7 +100,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <div class="services__item-four">
+                                <div class="services__item-four grades-height ">
                                     <div class="services__icon-four">
                                         <i class="fa-solid fa-ribbon"></i>
                                     </div>
@@ -182,7 +182,7 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-6">
-                            <div class="services__item-four">
+                            <div class="services__item-four grades-height">
                                 <div class="services__icon-four">
                                     <i class="fa-solid fa-ribbon"></i>
                                 </div>
@@ -196,7 +196,7 @@
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            <div class="services__item-four">
+                            <div class="services__item-four grades-height">
                                 <div class="services__icon-four">
                                     <i class="fa-solid fa-ribbon"></i>
                                 </div>
@@ -282,7 +282,7 @@
                         </div>
                         <div class="row">
                             <div class="col-lg-6">
-                                <div class="services__item-four">
+                                <div class="services__item-four grades-height">
                                     <div class="services__icon-four">
                                         <i class="fa-solid fa-ribbon"></i>
                                     </div>
@@ -294,7 +294,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <div class="services__item-four">
+                                <div class="services__item-four grades-height">
                                     <div class="services__icon-four">
                                         <i class="fa-solid fa-ribbon"></i>
                                     </div>
@@ -379,7 +379,7 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-6">
-                            <div class="services__item-four">
+                            <div class="services__item-four grades-height">
                                 <div class="services__icon-four">
                                     <i class="fa-solid fa-ribbon"></i>
                                 </div>
@@ -393,7 +393,7 @@
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            <div class="services__item-four">
+                            <div class="services__item-four grades-height">
                                 <div class="services__icon-four">
                                     <i class="fa-solid fa-ribbon"></i>
                                 </div>
@@ -479,7 +479,7 @@
                         </div>
                         <div class="row">
                             <div class="col-lg-6">
-                                <div class="services__item-four">
+                                <div class="services__item-four grades-height">
                                     <div class="services__icon-four">
                                         <i class="fa-solid fa-ribbon"></i>
                                     </div>
@@ -491,7 +491,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <div class="services__item-four">
+                                <div class="services__item-four grades-height">
                                     <div class="services__icon-four">
                                         <i class="fa-solid fa-ribbon"></i>
                                     </div>
@@ -576,7 +576,7 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-6">
-                            <div class="services__item-four">
+                            <div class="services__item-four grades-height">
                                 <div class="services__icon-four">
                                     <i class="fa-solid fa-ribbon"></i>
                                 </div>
@@ -590,7 +590,7 @@
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            <div class="services__item-four">
+                            <div class="services__item-four grades-height">
                                 <div class="services__icon-four">
                                     <i class="fa-solid fa-ribbon"></i>
                                 </div>
@@ -676,7 +676,7 @@
                         </div>
                         <div class="row">
                             <div class="col-lg-6">
-                                <div class="services__item-four">
+                                <div class="services__item-four grades-height">
                                     <div class="services__icon-four">
                                         <i class="fa-solid fa-ribbon"></i>
                                     </div>
@@ -689,7 +689,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <div class="services__item-four">
+                                <div class="services__item-four grades-height">
                                     <div class="services__icon-four">
                                         <i class="fa-solid fa-ribbon"></i>
                                     </div>
@@ -774,7 +774,7 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-6">
-                            <div class="services__item-four">
+                            <div class="services__item-four grades-height">
                                 <div class="services__icon-four">
                                     <i class="fa-solid fa-ribbon"></i>
                                 </div>
@@ -786,7 +786,7 @@
                                     <p>AIC 73 (70° - 75° Sh C)</p>
                                 </div>
                             </div>
-                            <div class="services__item-four">
+                            <div class="services__item-four grades-height">
                                 <div class="services__icon-four">
                                     <i class="fa-solid fa-ribbon"></i>
                                 </div>
@@ -797,7 +797,7 @@
                             </div>
                         </div>
                         <div class="col-lg-6">
-                            <div class="services__item-four">
+                            <div class="services__item-four grades-height">
                                 <div class="services__icon-four">
                                     <i class="fa-solid fa-ribbon"></i>
                                 </div>
@@ -883,7 +883,7 @@
                         </div>
                         <div class="row">
                             <div class="col-lg-6">
-                                <div class="services__item-four">
+                                <div class="services__item-four grades-height">
                                     <div class="services__icon-four">
                                         <i class="fa-solid fa-ribbon"></i>
                                     </div>
@@ -896,7 +896,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-6">
-                                <div class="services__item-four">
+                                <div class="services__item-four grades-height">
                                     <div class="services__icon-four">
                                         <i class="fa-solid fa-ribbon"></i>
                                     </div>
@@ -957,12 +957,12 @@
                     </table>
                 </div>
             </div>
-            <div class="col-12">
+            <!-- <div class="col-12">
                 <div class="heading mt-4">
                     <h4>QUALITY CONTROL - AN INTEGRAL ELEMENT</h4>
                     <p>All the rolls are thoroughly inspected at various stages of production to ensure that the best quality product reaches our customers. Inspection is carried out by a team of dedicated Engineers using various metrological instruments. Firstly, Hardness is checked by Proceq Equotip Hardness tester at the roughing stage. Then, the roll is put through Non-Destructive Testing (NDT) to check for any internal flaws. After passing these tests, the rolls are sent for final machining. Lastly, final hardness is taken and rolls are measured to ensure everything is as per customer's drawings and specifications. Rolls are then packed as per Customer's specifications.</p>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     </div>

@@ -29,7 +29,7 @@
                 <div class="col-12 col-lg-6 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                     <div class="features__item">
                         <div class="features__icon">
-                            <i class="renova-rocket"></i>
+                            <img src="assets/img/icons/carbon-offsets.png">
                         </div>
                         <div class="features__content">
                             <h3 class="title">Carbon Emissions Offset</h3>
@@ -54,7 +54,8 @@
                     <div class="features__item">
                         <div class="features__icon">
                             <!-- <i class="renova-book"></i> -->
-                            <i class="fa-solid fa-solar-panel"></i>
+                            <!-- <i class="fa-solid fa-solar-panel"></i> -->
+                            <img src="assets/img/icons/solar-cell.png">
                         </div>
                         <div class="features__content">
                             <h3 class="title">Captive Solar Power Plant with capacity of 1.8 MW</h3>
@@ -81,7 +82,8 @@
                 <div class="col-12 col-lg-6 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
                     <div class="features__item">
                         <div class="features__icon">
-                            <i class="renova-flag"></i>
+                            <!-- <i class="renova-flag"></i> -->
+                            <img src="assets/img/icons/oil.png">
                         </div>
                         <div class="features__content">
                             <!-- <h3 class="title">Team Core Values</h3> -->
@@ -106,7 +108,8 @@
                 <div class="col-12 col-lg-6 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
                     <div class="features__item">
                         <div class="features__icon">
-                            <i class="renova-flag"></i>
+                            <!-- <i class="renova-flag"></i> -->
+                            <img src="assets/img/icons/forest.png">
                         </div>
                         <div class="features__content">
                             <!-- <h3 class="title">Team Core Values</h3> -->
@@ -131,7 +134,8 @@
                     <div class="features__item">
                         <div class="features__icon">
                             <!-- <i class="renova-rocket"></i> -->
-                            <i class="fa-solid fa-plug-circle-minus"></i>
+                            <!-- <i class="fa-solid fa-plug-circle-minus"></i> -->
+                            <img src="assets/img/icons/energy-consumption.png">
                         </div>
                         <div class="features__content">
                             <h3 class="title">Energy Efficiency </h3>
@@ -159,7 +163,8 @@
                     <div class="features__item">
                         <div class="features__icon">
                             <!-- <i class="renova-book"></i> -->
-                            <i class="fa-regular fa-hospital"></i>
+                            <!-- <i class="fa-regular fa-hospital"></i> -->
+                            <img src="assets/img/icons/health-and-medical.png">
                         </div>
                         <div class="features__content">
                             <!-- <h3 class="title">About Our Story</h3> -->

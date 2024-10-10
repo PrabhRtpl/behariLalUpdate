@@ -61,7 +61,7 @@
 							<i class="fa-solid fa-location-dot"></i>
 							</div>
 							<div class="content">
-								<span>Head Office</span>
+								<span>SMS & Foundary Division</span>
 								<h2 class="title">Village Turan, Amloh Road, Mandi Gobindgarh, Punjab-147301</h2>
 							</div>
 						</div>

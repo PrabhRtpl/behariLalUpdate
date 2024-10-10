@@ -9757,7 +9757,7 @@ font-size: 24px;
   max-height: 120px;
 }
 .consultation__form .form-grp.select-grp {
-  width: 100%;
+  /* width: 100%; */
   position: relative;
 }
 .consultation__form .form-grp.select-grp select {
@@ -13603,14 +13603,20 @@ th {
   transform: translateY(-10px);
 }
 
+.features__icon img {
+  padding: 10px;
+}
 
 
 
 
 
-
-
-
+.prdctName h5{
+  font-size: 19px;
+}
+.grades-height{
+  height: 160px;
+}
 
 .heroWrapper {
   width: 100%;

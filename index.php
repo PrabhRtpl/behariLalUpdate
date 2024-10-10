@@ -70,7 +70,16 @@
 			<div class="feat">
 				<!-- <img src="assets/img/icons/workerIc.png" alt="worker icon" data-aos="fade-up"> -->
 				<img src="assets/img/icons/workerIc.png" alt="worker icon" data-aos="fade-up">
-				<h4><span>1000+</span> Years Experience</h4>
+				<h4><span>110+</span> Years Experience</h4>
+				<!-- <p>Compliance with building Metals, and work to achieve the desired aesthetic and functional goals.
+				</p> -->
+			</div>
+		</div>
+		<div class="col-lg-2 col-md-2 col-sm-6 col-xs-12 m-auto">
+			<div class="feat">
+				<!-- <img src="assets/img/icons/workerIc.png" alt="worker icon" data-aos="fade-up"> -->
+				<img src="assets/img/icons/customer.png" alt="worker icon" data-aos="fade-up">
+				<h4><span>1000+</span> Satisfied Customers</h4>
 				<!-- <p>Compliance with building Metals, and work to achieve the desired aesthetic and functional goals.
 				</p> -->
 			</div>
@@ -247,7 +256,7 @@
                                         <span>Founder &amp; Ceo</span>
                                     </div>
                                 </div> -->
-                                <a href="about.html" class="btn btn-two">More About Us 
+                                <a href="about.php" class="btn btn-two">More About Us 
 									<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" data-inject-url="https://themegenix.com/demo/renova/assets/img/icons/right_arrow.svg" class="injectable">
 <path d="M10.0208 3.41421L1.41421 12.0208L0 10.6066L8.60659 2H1.02082V0H12.0208V11H10.0208V3.41421Z" fill="currentcolor"></path>
 <path d="M10.0208 3.41421L1.41421 12.0208L0 10.6066L8.60659 2H1.02082V0H12.0208V11H10.0208V3.41421Z" fill="currentcolor"></path>
