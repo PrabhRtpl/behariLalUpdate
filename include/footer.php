@@ -47,7 +47,7 @@
             <li><a href="forged-shafts.php">Forged Shafts and Blocks</a></li>
             </ul>
         </div>
-        <div class="col-12 col-md-6 col-lg-4 mb-5">
+        <div class="col-12 col-md-6 col-lg-4 mb-2">
             <h3>Contact</h3>
             <ul>
                 <li>

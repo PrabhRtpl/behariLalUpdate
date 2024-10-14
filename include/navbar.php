@@ -107,7 +107,7 @@
                 <a href="index.php"><img class="b-lal-logo" src="assets/img/logo.png" alt=""></a>
               </div>
               <div class="tgmenu__navbar-wrap tgmenu__main-menu d-none d-xl-flex">
-                <ul class="navigation">
+                <ul class="navigation mobile-navigation-display">
                
                   <li class="nav-item">
                     <a class="nav-link" href="about.php">
@@ -187,8 +187,8 @@
       <div class="tgmobile__menu-outer">
 
 
-        <ul class="navigation">
-          <!-- <li class="nav-item">
+        <ul class="navigation ">
+          <li class="nav-item">
             <a class="nav-link" href="index.php">Home</a>
           </li>
           <li class="nav-item">
@@ -231,7 +231,10 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="vendor.php">Vendor Registration</a>
-          </li> -->
+          </li>
+          <li class="nav-item">
+                    <a class="nav-link" href="contact.php">Contact Us</a>
+                  </li>
 
         </ul>
       </div>
