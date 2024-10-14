@@ -19,6 +19,7 @@
 <script src="assets/js/svg-inject.min.js"></script>
 <script src="assets/js/tween-max.min.js"></script>
 <script src="assets/js/wow.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
 <script src="assets/js/aos.js"></script>
 <script src="assets/js/main.js"></script>
 <!-------about counter------->

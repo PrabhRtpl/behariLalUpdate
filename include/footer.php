@@ -1,6 +1,6 @@
 <footer class="footerWrap">
     <div class="row">
-        <div class="col-lg-4">
+        <div class="col-12 col-md-6 col-lg-4 mb-5">
             <img src="assets/img/logo.png" alt="">
             <p class="cmpnyBrief">Committed to satisfy its customers by providing quality products consistently in
                 accordance with customer specific requirements.</p>
@@ -25,7 +25,7 @@
       </div>
     </div>
         </div>
-        <div class="col-lg-2">
+        <div class="col-12 col-md-6 col-lg-2 mb-5">
             <h3>Links</h3>
             <ul>
                 <li><a href="about.php">About Us</a></li>
@@ -33,10 +33,11 @@
                 <li><a href="hse.php">HSE</a></li>
                 <li><a href="certificate.php">Certificate</a></li>
                 <li><a href="awards.php">Awards & Media</a></li>
+                <li><a href="career.php">Career</a></li>
                 <li><a href="contact.php">Contact</a></li>
             </ul>
         </div>
-        <div class="col-lg-2">
+        <div class="col-12 col-md-6 col-lg-2 mb-5">
             <h3>Products</h3>
             <ul>
             <li><a href="metalRolls.php">Metal Rolls</a></li>
@@ -46,7 +47,7 @@
             <li><a href="forged-shafts.php">Forged Shafts and Blocks</a></li>
             </ul>
         </div>
-        <div class="col-lg-4">
+        <div class="col-12 col-md-6 col-lg-4 mb-5">
             <h3>Contact</h3>
             <ul>
                 <li>

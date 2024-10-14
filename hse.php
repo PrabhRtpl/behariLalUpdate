@@ -26,7 +26,7 @@
     <section class="features__area section-pt-120 section-pb-90">
         <div class="container">
             <div class="row justify-content-center gutter-24">
-                <div class="col-12 col-lg-6 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-6  aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                     <div class="features__item">
                         <div class="features__icon">
                             <img src="assets/img/icons/carbon-offsets.png">
@@ -50,7 +50,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-lg-6 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="600">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-6  aos-init aos-animate" data-aos="fade-up" data-aos-delay="600">
                     <div class="features__item">
                         <div class="features__icon">
                             <!-- <i class="renova-book"></i> -->
@@ -79,7 +79,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-lg-6 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-6  aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
                     <div class="features__item">
                         <div class="features__icon">
                             <!-- <i class="renova-flag"></i> -->
@@ -105,7 +105,7 @@
                     </div>
                 </div>
               
-                <div class="col-12 col-lg-6 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-6  aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
                     <div class="features__item">
                         <div class="features__icon">
                             <!-- <i class="renova-flag"></i> -->
@@ -130,7 +130,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12 col-lg-6 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-6  aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                     <div class="features__item">
                         <div class="features__icon">
                             <!-- <i class="renova-rocket"></i> -->
@@ -159,7 +159,7 @@
               
                
                 
-                <div class="col-12 col-lg-6 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="600">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-6  aos-init aos-animate" data-aos="fade-up" data-aos-delay="600">
                     <div class="features__item">
                         <div class="features__icon">
                             <!-- <i class="renova-book"></i> -->

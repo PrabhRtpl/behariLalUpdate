@@ -160,6 +160,7 @@
             </div>
         </div>
     </div>
+    
     </div>
     <div class="two-sub" id="metal2">
     <section class="history__area section-py-120 grey-bg">
@@ -257,6 +258,7 @@
             </div>
         </div>
     </div>
+    
     </div>
     <div class="three-sub" id="metal3">
     <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"

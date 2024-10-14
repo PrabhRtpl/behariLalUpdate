@@ -33,10 +33,10 @@
 <div id="carouselExample" class="carousel slide">
 	<div class="carousel-inner">
 		<div class="carousel-item active">
-			<img src="assets/img/banner/hero_main.png" alt="">
+			<img src="assets/img/banner/hero_main.png" alt="" class="img-fluid">
 		</div>
 		<div class="carousel-item">
-			<img src="assets/img/banner/hero_main_2.png" alt="">
+			<img src="assets/img/banner/hero_main_2.png" alt="" class="img-fluid">
 		</div>
 	</div>
 	<button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -66,7 +66,7 @@
 	<h6 class="subHead">Our Feature</h6>
 	<h2 class="secHead">Raising the Bar in Steel Industry</h2>
 	<div class="row features">
-		<div class="col-lg-2 col-md-2 col-sm-6 col-xs-12 m-auto">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 m-auto pb-5">
 			<div class="feat">
 				<!-- <img src="assets/img/icons/workerIc.png" alt="worker icon" data-aos="fade-up"> -->
 				<img src="assets/img/icons/workerIc.png" alt="worker icon" data-aos="fade-up">
@@ -75,7 +75,7 @@
 				</p> -->
 			</div>
 		</div>
-		<div class="col-lg-2 col-md-2 col-sm-6 col-xs-12 m-auto">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 m-auto pb-5">
 			<div class="feat">
 				<!-- <img src="assets/img/icons/workerIc.png" alt="worker icon" data-aos="fade-up"> -->
 				<img src="assets/img/icons/customer.png" alt="worker icon" data-aos="fade-up">
@@ -84,7 +84,7 @@
 				</p> -->
 			</div>
 		</div>
-		<div class="col-lg-2 col-md-2 col-sm-6 col-xs-12 m-auto">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 m-auto pb-5">
 			<div class="feat active">
 				<img src="assets/img/icons/expIc.png" alt="Experience icon" data-aos="fade-up">
 				<h4><span>4th </span> Generation Organisation</h4>
@@ -92,7 +92,7 @@
 				</p> -->
 			</div>
 		</div>
-		<div class="col-lg-2 col-md-2 col-sm-6 col-xs-12 m-auto">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 m-auto pb-5">
 			<div class="feat">
 				<img src="assets/img/icons/awardIc.png" alt="Award Icon" data-aos="fade-up">
 				<h4><span>400+</span> Steel & Iron Grades</h4>
@@ -100,7 +100,7 @@
 				</p> -->
 			</div>
 		</div>
-		<div class="col-lg-2 col-md-2 col-sm-6 col-xs-12 m-auto">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 m-auto pb-5">
 			<div class="feat">
 				<img src="assets/img/icons/liquidMetal.png" alt="Award Icon" data-aos="fade-up">
 				<h4><span>72,000 MT </span> Liquid Metal Capacity</h4>
@@ -108,7 +108,7 @@
 				</p> -->
 			</div>
 		</div>
-		<div class="col-lg-2 col-md-2 col-sm-6 col-xs-12 m-auto">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 m-auto pb-5">
 			<div class="feat">
 				<img src="assets/img/icons/area.png" alt="Award Icon" data-aos="fade-up">
 				<h4><span>30 </span> Acres Total Area of Plant</h4>
@@ -116,7 +116,7 @@
 				</p> -->
 			</div>
 		</div>
-
+		
 	</div>
 </section>
 <!-- brand-area -->
@@ -431,7 +431,7 @@
 	<h2 class="secHead product-sub-heading-home">Behari Lal Group is a leading manufacturer of tailored, customer specific products in verticals of</h2>
 	<p> </p>
 	<div class="row features">
-		<div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 m-auto">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-6 col-xl-2 m-auto">
 			<div class="product" data-aos="fade-right" data-aos-duration="1500">
 				<img src="assets/img/metalRoll.png" alt="worker icon">
 				<div class="prdctName">
@@ -440,7 +440,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 m-auto">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-6 col-xl-2 m-auto">
 			<div class="product" data-aos="fade-up" data-aos-duration="1500">
 				<img src="assets/img/engCastings.png" alt="worker icon">
 				<div class="prdctName">
@@ -449,7 +449,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 m-auto">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-6 col-xl-2 m-auto">
 			<div class="product" data-aos="fade-left" data-aos-duration="1500">
 				<img src="assets/img/steelRounds.png" alt="worker icon">
 				<div class="prdctName">
@@ -458,7 +458,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 m-auto">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-6 col-xl-2 m-auto">
 			<div class="product" data-aos="fade-left" data-aos-duration="1500">
 				<img src="assets/img/steelRounds.png" alt="worker icon">
 				<div class="prdctName">
@@ -467,7 +467,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 m-auto">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-6 col-xl-2 m-auto">
 			<div class="product" data-aos="fade-left" data-aos-duration="1500">
 				<img src="assets/img/steelRounds.png" alt="worker icon">
 				<div class="prdctName">
@@ -516,7 +516,7 @@
 		over the world.
 	</p>
 	<div class="row align-items-center">
-		<div class="col-lg-2 col-sm-12">
+		<div class="col-sm-2 col-md-2 col-lg-2 ">
 			<ul class="countries">
 				<li>USA</li>
 				<li>Bangladesh</li>
@@ -527,12 +527,12 @@
 				<li>Nigeria</li>
 			</ul>
 		</div>
-		<div class="col-lg-8 col-sm-12">
+		<div class="col-sm-8 col-md-8 col-lg-8 ">
 			<div class="globeImg" data-aos="zoom-in" data-aos-duration="1500">
 				<img src="assets/img/globe.png" alt="Globe img">
 			</div>
 		</div>
-		<div class="col-lg-2 col-sm-12">
+		<div class="col-sm-2 col-md-2 col-lg-2 ">
 			<ul class="countries">
 				<li>UAE</li>
 				<li>Mexico</li>
@@ -547,13 +547,13 @@
 <section class="container linkedin">
 	<h2 class="secHead text-center">Social Media Presence</h2>
 	<div class="row">
-		<div class="col-12 col-md-4 col-lg-4">
+		<div class="col-12 col-md-4 col-lg-4 mb-3">
 			<img src="assets/img/linked_1.png" alt="">
 		</div>
-		<div class="col-12 col-md-4 col-lg-4">
+		<div class="col-12 col-md-4 col-lg-4 mb-3">
 			<img src="assets/img/linked_2.png" alt="">
 		</div>
-		<div class="col-12 col-md-4 col-lg-4">
+		<div class="col-12 col-md-4 col-lg-4 mb-3">
 			<img src="assets/img/linked_3.png" alt="">
 		</div>
 	</div>
