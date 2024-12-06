@@ -31,27 +31,27 @@
         <div class="row features">
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pb-5">
                 <div class="product" data-aos="fade-right" data-aos-duration="1500">
-                    <img src="assets/img/metalRoll.png" alt="worker icon">
+                   <a href="metalRolls.php"> <img src="assets/img/metalRoll.png" alt="worker icon"></a>
                     <div class="prdctName">
-                        <h5>METAL ROLLS</h5>
+                        <a href="metalRolls.php"><h5>METAL ROLLS</h5></a>
                         <a href="metalRolls.php"><i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pb-5">
                 <div class="product" data-aos="fade-up" data-aos-duration="1500">
-                    <img src="assets/img/engCastings.png" alt="worker icon">
+                    <a href="eng-casting.php"><img src="assets/img/engCastings.png" alt="worker icon"></a>
                     <div class="prdctName">
-                        <h5>Engineering Castings</h5>
+                        <a href="eng-casting.php"><h5>Engineering Castings</h5></a>
                         <a href="eng-casting.php"><i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pb-5">
                 <div class="product" data-aos="fade-left" data-aos-duration="1500">
-                    <img src="assets/img/steelRounds.png" alt="worker icon">
+                     <a href="carbon.php"> <img src="assets/img/steelRounds.png" alt="worker icon"></a>
                     <div class="prdctName">
-                        <h5>Carbon & Alloy Steel Bars</h5>
+                          <a href="carbon.php"><h5>Carbon & Alloy Steel Bars</h5></a>
                         <a href="carbon.php"><i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -61,18 +61,18 @@
            
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pb-5 m-auto">
                 <div class="product" data-aos="fade-up" data-aos-duration="1500">
-                    <img src="assets/img/engCastings.png" alt="worker icon">
+                    <a href="forging-ingots.php"> <img src="assets/img/engCastings.png" alt="worker icon"></a>
                     <div class="prdctName">
-                        <h5>Forging Quality Ingots</h5>
+                        <a href="forging-ingots.php"> <h5>Forging Quality Ingots</h5></a>
                         <a href="forging-ingots.php"><i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 pb-5 m-auto">
                 <div class="product" data-aos="fade-left" data-aos-duration="1500">
-                    <img src="assets/img/steelRounds.png" alt="worker icon">
+                     <a href="javascript::void()"><img src="assets/img/steelRounds.png" alt="worker icon"></a>
                     <div class="prdctName">
-                        <h5>Forged Shafts and Blocks</h5>
+                         <a href="javascript::void()"><h5>Forged Shafts and Blocks</h5></a>
                         <a href="javascript::void()"><i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>

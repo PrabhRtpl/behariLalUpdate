@@ -56,8 +56,8 @@
                     <div class="about__content-four">
                         <h4>Product Mix</h4>
                         <ul>
-                            <li>Round - Ø16mm to Ø170mm</li>
-                            <li>Square & RCS - ▢34mm to ▢125mm</li>
+                            <li>Round - 16mm to 220mm</li>
+                            <li>Square & RCS - ▢ 34mm to  ▢ 140mm</li>
                             <li>Flat & RCF - 50mm to 300mm width & 5mm to 32mm thickness</li>
                             <li>Rectangle. - 35X45…………..</li>
                             <li>Hexagon - ⬡25mm to ⬡70mm</li>
@@ -161,8 +161,8 @@
                 </tbody>
             </table>
         </div>
-        <div class="row">
-            <div class="col-12">
+        <div class="row mb-5">
+            <div class="col-12 col-md-6 col-lg-6">
                 <h4>Tests conducted by QA/QC:</h4>
                 <ul>
                     <li>Jominy End Quench Test/ Harden-ability test</li>
@@ -183,6 +183,9 @@
                 <p>A team of professional and technical experts having wide experience in the steel industry run the
                     plant. The SMS and Rolling Mill division is headed by a team of experts in the field of melting and
                     rolling having an experience of more than 25 years.</p>
+            </div>
+            <div class="col-12 col-md-6 col-lg-6">
+                <img src="assets/img/product-3-sub.jpg">
             </div>
         </div>
     </div>

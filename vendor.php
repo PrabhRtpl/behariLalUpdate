@@ -75,7 +75,11 @@
                                     <label for="number">City</label>
                                     <input type="name" id="city">
                                 </div>
-                                <div class="form-grp select-grp col-12 col-md-6 col-lg-6">
+                                <!-- <div class="form-grp col-12 col-md-6 col-lg-4">
+                                    <label for="number">Company Name</label>
+                                    <input type="name" id="company">
+                                </div> -->
+                                <!-- <div class="form-grp select-grp col-12 col-md-6 col-lg-6">
                                     <label for="select">What are you looking for?</label>
                                     <select name="select" id="select" class="orderby">
                                         <option value="Select your subject">Select your subject</option>
@@ -84,7 +88,7 @@
                                         <option value="Subject Three">Subject Three</option>
                                         <option value="Subject Four">Subject Four</option>
                                     </select>
-                                </div>
+                                </div> -->
                                 <div class="form-grp select-grp col-12 col-md-6 col-lg-6">
                                     <label for="select">How did you hear about us?</label>
                                     <select name="select" id="select" class="orderby">

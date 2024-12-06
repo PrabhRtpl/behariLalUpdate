@@ -23,6 +23,27 @@
 <script src="assets/js/aos.js"></script>
 <script src="assets/js/main.js"></script>
 <!-------about counter------->
+
+<script>
+    const swiper = new Swiper('.brand-active', {
+        loop: true, // Enable infinite looping
+        autoplay: {
+            delay: 3000, // Auto scroll every 3 seconds
+            disableOnInteraction: false,
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+        slidesPerView: 4, // Adjust based on your layout
+        spaceBetween: 20, // Space between slides
+        breakpoints: {
+            640: { slidesPerView: 2, spaceBetween: 10 },
+            768: { slidesPerView: 3, spaceBetween: 15 },
+            1024: { slidesPerView: 5, spaceBetween: 20 },
+        },
+    });
+</script>
 <script>
   //aos js
   AOS.init();

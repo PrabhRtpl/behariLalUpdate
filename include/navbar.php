@@ -138,7 +138,7 @@
                     <div class="dropdown-btn"><span class="plus-line"></span></div>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="hse.php">HSE</a>
+                    <a class="nav-link" href="sustainability.php">Sustainability</a>
                   </li>
                   <!-- <li class="nav-item">
                     <a class="nav-link" href="certificate.php">Certificate</a>
@@ -216,7 +216,7 @@
             <div class="dropdown-btn"><span class="plus-line"></span></div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="hse.php">HSE</a>
+            <a class="nav-link" href="sustainability.php">Sustainability</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="certificate.php">Certificate</a>

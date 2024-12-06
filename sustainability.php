@@ -9,13 +9,13 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcrumb__content">
-                        <h2 class="title">HSE</h2>
+                        <h2 class="title">Sustainability</h2>
                         <nav class="breadcrumb">
                             <span property="itemListElement" typeof="ListItem">
                                 <a href="index.php">Home</a>
                             </span>
                             <span class="breadcrumb-separator">/</span>
-                            <span property="itemListElement" typeof="ListItem">HSE </span>
+                            <span property="itemListElement" typeof="ListItem">Sustainability </span>
                         </nav>
                     </div>
                 </div>

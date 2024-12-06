@@ -20,20 +20,26 @@
 	</div>
 </section> -->
 <!-- <section class="heroWrapper hero-carousel owl-theme">
-    <div class="heroImgHolder">
-        <img src="assets/img/banner/hero_main.png" alt="">
-    </div>
-    <div class="heroImgHolder">
-        <img src="assets/img/banner/hero_second.png" alt="">
-    </div>
-    <div class="heroImgHolder">
-        <img src="assets/img/banner/hero_third.png" alt="">
-    </div>
+	<div class="heroImgHolder">
+		<img src="assets/img/banner/hero_main.png" alt="">
+	</div>
+	<div class="heroImgHolder">
+		<img src="assets/img/banner/hero_second.png" alt="">
+	</div>
+	<div class="heroImgHolder">
+		<img src="assets/img/banner/hero_third.png" alt="">
+	</div>
 </section> -->
 <div id="carouselExample" class="carousel slide">
 	<div class="carousel-inner">
 		<div class="carousel-item active">
 			<img src="assets/img/banner/hero_main.png" alt="" class="img-fluid">
+		</div>
+		<div class="carousel-item">
+			<img src="assets/img/banner/hero_main-3.jpg" alt="" class="img-fluid">
+		</div>
+		<div class="carousel-item">
+			<img src="assets/img/banner/hero_main-4.jpg" alt="" class="img-fluid">
 		</div>
 		<div class="carousel-item">
 			<img src="assets/img/banner/hero_main_2.png" alt="" class="img-fluid">
@@ -66,7 +72,7 @@
 	<h6 class="subHead">Our Feature</h6>
 	<h2 class="secHead">Raising the Bar in Steel Industry</h2>
 	<div class="row features">
-		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 m-auto pb-5">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 m-auto pb-5">
 			<div class="feat">
 				<!-- <img src="assets/img/icons/workerIc.png" alt="worker icon" data-aos="fade-up"> -->
 				<img src="assets/img/icons/workerIc.png" alt="worker icon" data-aos="fade-up">
@@ -75,7 +81,7 @@
 				</p> -->
 			</div>
 		</div>
-		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 m-auto pb-5">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 m-auto pb-5">
 			<div class="feat">
 				<!-- <img src="assets/img/icons/workerIc.png" alt="worker icon" data-aos="fade-up"> -->
 				<img src="assets/img/icons/customer.png" alt="worker icon" data-aos="fade-up">
@@ -84,7 +90,7 @@
 				</p> -->
 			</div>
 		</div>
-		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 m-auto pb-5">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 m-auto pb-5">
 			<div class="feat active">
 				<img src="assets/img/icons/expIc.png" alt="Experience icon" data-aos="fade-up">
 				<h4><span>4th </span> Generation Organisation</h4>
@@ -92,7 +98,7 @@
 				</p> -->
 			</div>
 		</div>
-		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 m-auto pb-5">
+		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-3 m-auto pb-5">
 			<div class="feat">
 				<img src="assets/img/icons/awardIc.png" alt="Award Icon" data-aos="fade-up">
 				<h4><span>400+</span> Steel & Iron Grades</h4>
@@ -100,23 +106,21 @@
 				</p> -->
 			</div>
 		</div>
-		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 m-auto pb-5">
+		<!-- <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 m-auto pb-5">
 			<div class="feat">
 				<img src="assets/img/icons/liquidMetal.png" alt="Award Icon" data-aos="fade-up">
 				<h4><span>72,000 MT </span> Liquid Metal Capacity</h4>
-				<!-- <p>Compliance with building Metals, and work to achieve the desired aesthetic and functional goals.
-				</p> -->
+				
 			</div>
 		</div>
 		<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 m-auto pb-5">
 			<div class="feat">
 				<img src="assets/img/icons/area.png" alt="Award Icon" data-aos="fade-up">
 				<h4><span>30 </span> Acres Total Area of Plant</h4>
-				<!-- <p>Compliance with building Metals, and work to achieve the desired aesthetic and functional goals.
-				</p> -->
+				
 			</div>
-		</div>
-		
+		</div> -->
+
 	</div>
 </section>
 <!-- brand-area -->
@@ -125,6 +129,21 @@
 		<h6 class="subHead mb-5">Our Clients</h6>
 		<div class="swiper brand-active">
 			<div class="swiper-wrapper">
+			<div class="swiper-slide">
+					<div class="brand__item">
+						<img src="assets/img/clients/client1.png" alt="img">
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="brand__item">
+						<img src="assets/img/clients/client7.png" alt="img">
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="brand__item">
+						<img src="assets/img/clients/client11.png" alt="img">
+					</div>
+				</div>
 				<div class="swiper-slide">
 					<div class="brand__item">
 						<img src="assets/img/clients/client2.png" alt="img">
@@ -160,15 +179,106 @@
 						<img src="assets/img/clients/client36.png" alt="img">
 					</div>
 				</div>
+				
 				<div class="swiper-slide">
 					<div class="brand__item">
-						<img src="assets/img/clients/client44.png" alt="img">
+						<img src="assets/img/clients/client1.png" alt="img">
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="brand__item">
+						<img src="assets/img/clients/client19.png" alt="img">
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="brand__item">
+						<img src="assets/img/clients/client40.png" alt="img">
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="brand__item">
+						<img src="assets/img/clients/client52.png" alt="img">
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="brand__item">
+						<img src="assets/img/clients/client53.png" alt="img">
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
+
+<!-- <div class="brand__area section-pb-120">
+    <div class="container">
+        <h6 class="subHead mb-5">Our Clients</h6>
+       
+        <div class="swiper brand-active">
+            <div class="swiper-wrapper">
+         
+                <div class="swiper-slide">
+                    <div class="brand__item">
+                        <img src="assets/img/clients/client1.png" alt="img">
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="brand__item">
+                        <img src="assets/img/clients/client7.png" alt="img">
+                    </div>
+                </div>
+				<div class="swiper-slide">
+                    <div class="brand__item">
+                        <img src="assets/img/clients/client1.png" alt="img">
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="brand__item">
+                        <img src="assets/img/clients/client7.png" alt="img">
+                    </div>
+                </div>
+				<div class="swiper-slide">
+                    <div class="brand__item">
+                        <img src="assets/img/clients/client1.png" alt="img">
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="brand__item">
+                        <img src="assets/img/clients/client7.png" alt="img">
+                    </div>
+                </div>
+				<div class="swiper-slide">
+                    <div class="brand__item">
+                        <img src="assets/img/clients/client1.png" alt="img">
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="brand__item">
+                        <img src="assets/img/clients/client7.png" alt="img">
+                    </div>
+                </div>
+				<div class="swiper-slide">
+                    <div class="brand__item">
+                        <img src="assets/img/clients/client1.png" alt="img">
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="brand__item">
+                        <img src="assets/img/clients/client7.png" alt="img">
+                    </div>
+                </div>
+             
+            </div>
+ 
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+    </div>
+</div> -->
+
+
+
+
 <!-- brand-area-end -->
 
 <section class="container-fluid aboutWrapper">
@@ -225,93 +335,124 @@
 		</div>
 	</div> -->
 	<div class="row gutter-24 justify-content-center align-items-center">
-                    <div class="col-lg-6 col-md-10">
-                        <div class="about__img-four wow img-custom-anim-left  animated" data-wow-duration="1.5s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
-                            <img src="assets/img/about.png" alt="img">
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="about__content-four">
-                            <div class="section__title section__title-three mb-30">
-                                <span class="sub-title">More About Us</span>
-                                <h2 class="title">Empowering Visions Through Solid Construction</h2>
-                            </div>
-                            <p>Globally maintain high payoff collaboration and idea sharing after viral solutions. Objectively leading are edge mindshare rather than premier testing pursue professional customer service revolutionary services drive proactive relationships through...</p>
-                            <div class="about__content-four-inner">
-                                <img src="assets/img/about-1.jpg" alt="img" class="wow img-custom-anim-top  animated" data-wow-duration="1.5s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-top;">
-                                <ul class="list-wrap about__inner-list">
-                                    <li><i class="fas fa-check-circle"></i>Professional Construction Service</li>
-                                    <li><i class="fas fa-check-circle"></i>24/7 Consultancy Services Available</li>
-                                    <li><i class="fas fa-check-circle"></i>Unlimited Expert Team Members</li>
-                                    <li><i class="fas fa-check-circle"></i>More Than 25 Years of Experience</li>
-                                </ul>
-                            </div>
-                            <div class="about__content-four-bottom">
-                                <!-- <div class="about__author">
-                                    <div class="thumb">
-                                        <img src="assets/img/images/about_author.png" alt="img">
-                                    </div>
-                                    <div class="content">
-                                        <h4 class="title">Daniel H. Smith</h4>
-                                        <span>Founder &amp; Ceo</span>
-                                    </div>
-                                </div> -->
-                                <a href="about.php" class="btn btn-two">More About Us 
-									<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" data-inject-url="https://themegenix.com/demo/renova/assets/img/icons/right_arrow.svg" class="injectable">
-<path d="M10.0208 3.41421L1.41421 12.0208L0 10.6066L8.60659 2H1.02082V0H12.0208V11H10.0208V3.41421Z" fill="currentcolor"></path>
-<path d="M10.0208 3.41421L1.41421 12.0208L0 10.6066L8.60659 2H1.02082V0H12.0208V11H10.0208V3.41421Z" fill="currentcolor"></path>
-</svg>
-</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+		<div class="col-lg-6 col-md-10">
+			<!-- <div class="about__img-four wow img-custom-anim-left  animated" data-wow-duration="1.5s"
+				data-wow-delay="0.2s"
+				style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
+				<img src="assets/img/about.png" alt="img">
+			</div> -->			
+				<div class="section__title section__title-three mb-30">
+					<span class="sub-title">More About Us</span>
+					<h2 class="title">Empowering Visions Through Solid Construction</h2>
+				</div>
+				<p class="index-para">Globally maintain high payoff collaboration and idea sharing after viral solutions. Objectively
+					leading are edge mindshare rather than premier testing pursue professional customer service
+					revolutionary services drive proactive relationships through...</p>
+			
+		</div>
+		<div class="col-lg-6">
+			<div class="about__content-four">
+				<!-- <div class="section__title section__title-three mb-30">
+					<span class="sub-title">More About Us</span>
+					<h2 class="title">Empowering Visions Through Solid Construction</h2>
+				</div>
+				<p>Globally maintain high payoff collaboration and idea sharing after viral solutions. Objectively
+					leading are edge mindshare rather than premier testing pursue professional customer service
+					revolutionary services drive proactive relationships through...</p> -->
+					<div class="row">
+						<div class="col-6 col-md-4 col-lg-4 about__content-four-inner">
+						<img src="assets/img/about-1.jpg" alt="img" class="wow img-custom-anim-top  animated"
+						data-wow-duration="1.5s" data-wow-delay="0.2s"
+						style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-top;">
+						</div>
+						<div class="col-6 col-md-4 col-lg-4 about__content-four-inner">
+						<ul class="list-wrap about__inner-list">
+						<li><i class="fas fa-check-circle"></i>Professional Construction Service</li>
+						<li><i class="fas fa-check-circle"></i>24/7 Consultancy Services Available</li>
+						<li><i class="fas fa-check-circle"></i>Unlimited Expert Team Members</li>
+						<li><i class="fas fa-check-circle"></i>More Than 25 Years of Experience</li>
+					</ul>
+					<div class="about__content-four-bottom">
+					<!-- <div class="about__author">
+									<div class="thumb">
+										<img src="assets/img/images/about_author.png" alt="img">
+									</div>
+									<div class="content">
+										<h4 class="title">Daniel H. Smith</h4>
+										<span>Founder &amp; Ceo</span>
+									</div>
+								</div> -->
+					<a href="about.php" class="btn btn-two">More About Us
+						<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg"
+							data-inject-url="https://themegenix.com/demo/renova/assets/img/icons/right_arrow.svg"
+							class="injectable">
+							<path
+								d="M10.0208 3.41421L1.41421 12.0208L0 10.6066L8.60659 2H1.02082V0H12.0208V11H10.0208V3.41421Z"
+								fill="currentcolor"></path>
+							<path
+								d="M10.0208 3.41421L1.41421 12.0208L0 10.6066L8.60659 2H1.02082V0H12.0208V11H10.0208V3.41421Z"
+								fill="currentcolor"></path>
+						</svg>
+					</a>
+				</div>
+						</div>
+					</div>
+				<div class="about__content-four-inner">
+					<!-- <img src="assets/img/about-1.jpg" alt="img" class="wow img-custom-anim-top  animated"
+						data-wow-duration="1.5s" data-wow-delay="0.2s"
+						style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-top;"> -->
+					
+				</div>
+				
+			</div>
+		</div>
+	</div>
 </section>
 
 <!-- <section class="about__area-four grey-bg section-py-120">
-            <div class="container">
-                <div class="row gutter-24 justify-content-center align-items-center">
-                    <div class="col-lg-6 col-md-10">
-                        <div class="about__img-four wow img-custom-anim-left  animated" data-wow-duration="1.5s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
-                            <img src="assets/img/images/h2_about_img01.jpg" alt="img">
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="about__content-four">
-                            <div class="section__title section__title-three mb-30">
-                                <span class="sub-title">More About Us</span>
-                                <h2 class="title">We are qualified &amp; of experience in this field</h2>
-                            </div>
-                            <p>Globally maintain high payoff collaboration and idea sharing after viral solutions. Objectively leading are edge mindshare rather than premier testing pursue professional customer service revolutionary services drive proactive relationships through...</p>
-                            <div class="about__content-four-inner">
-                                <img src="assets/img/images/h2_about_img02.jpg" alt="img" class="wow img-custom-anim-top  animated" data-wow-duration="1.5s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-top;">
-                                <ul class="list-wrap about__inner-list">
-                                    <li><i class="fas fa-check-circle"></i>Professional Construction Service</li>
-                                    <li><i class="fas fa-check-circle"></i>24/7 Consultancy Services Available</li>
-                                    <li><i class="fas fa-check-circle"></i>Unlimited Expert Team Members</li>
-                                    <li><i class="fas fa-check-circle"></i>More Than 25 Years of Experience</li>
-                                </ul>
-                            </div>
-                            <div class="about__content-four-bottom">
-                                <div class="about__author">
-                                    <div class="thumb">
-                                        <img src="assets/img/images/about_author.png" alt="img">
-                                    </div>
-                                    <div class="content">
-                                        <h4 class="title">Daniel H. Smith</h4>
-                                        <span>Founder &amp; Ceo</span>
-                                    </div>
-                                </div>
-                                <a href="about.html" class="btn btn-two">More About Us <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" data-inject-url="https://themegenix.com/demo/renova/assets/img/icons/right_arrow.svg" class="injectable">
+			<div class="container">
+				<div class="row gutter-24 justify-content-center align-items-center">
+					<div class="col-lg-6 col-md-10">
+						<div class="about__img-four wow img-custom-anim-left  animated" data-wow-duration="1.5s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
+							<img src="assets/img/images/h2_about_img01.jpg" alt="img">
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<div class="about__content-four">
+							<div class="section__title section__title-three mb-30">
+								<span class="sub-title">More About Us</span>
+								<h2 class="title">We are qualified &amp; of experience in this field</h2>
+							</div>
+							<p>Globally maintain high payoff collaboration and idea sharing after viral solutions. Objectively leading are edge mindshare rather than premier testing pursue professional customer service revolutionary services drive proactive relationships through...</p>
+							<div class="about__content-four-inner">
+								<img src="assets/img/images/h2_about_img02.jpg" alt="img" class="wow img-custom-anim-top  animated" data-wow-duration="1.5s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-top;">
+								<ul class="list-wrap about__inner-list">
+									<li><i class="fas fa-check-circle"></i>Professional Construction Service</li>
+									<li><i class="fas fa-check-circle"></i>24/7 Consultancy Services Available</li>
+									<li><i class="fas fa-check-circle"></i>Unlimited Expert Team Members</li>
+									<li><i class="fas fa-check-circle"></i>More Than 25 Years of Experience</li>
+								</ul>
+							</div>
+							<div class="about__content-four-bottom">
+								<div class="about__author">
+									<div class="thumb">
+										<img src="assets/img/images/about_author.png" alt="img">
+									</div>
+									<div class="content">
+										<h4 class="title">Daniel H. Smith</h4>
+										<span>Founder &amp; Ceo</span>
+									</div>
+								</div>
+								<a href="about.html" class="btn btn-two">More About Us <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg" data-inject-url="https://themegenix.com/demo/renova/assets/img/icons/right_arrow.svg" class="injectable">
 <path d="M10.0208 3.41421L1.41421 12.0208L0 10.6066L8.60659 2H1.02082V0H12.0208V11H10.0208V3.41421Z" fill="currentcolor"></path>
 <path d="M10.0208 3.41421L1.41421 12.0208L0 10.6066L8.60659 2H1.02082V0H12.0208V11H10.0208V3.41421Z" fill="currentcolor"></path>
 </svg></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-       </section> -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	   </section> -->
 
 
 
@@ -428,7 +569,8 @@
 </section> -->
 <section class="featWrap container-fluid">
 	<h6 class="subHead">Products</h6>
-	<h2 class="secHead product-sub-heading-home">Behari Lal Group is a leading manufacturer of tailored, customer specific products in verticals of</h2>
+	<h2 class="secHead product-sub-heading-home">Behari Lal Group is a leading manufacturer of tailored, customer
+		specific products in verticals of</h2>
 	<p> </p>
 	<div class="row features">
 		<div class="col-12 col-sm-6 col-md-4 col-lg-6 col-xl-2 m-auto">
@@ -512,7 +654,7 @@
 <section class="container-fluid global">
 	<h2 class="secHead text-center">Global Market</h2>
 	<p class="globePara">
-		Our biggest market is India. Yet, Behari Lal Ispat is positioned to deliver Special Steel's Quality Products all
+		Our biggest market is India. Yet, Behari Lal Engineering Limited is positioned to deliver Special Steel's Quality Products all
 		over the world.
 	</p>
 	<div class="row align-items-center">
@@ -598,6 +740,7 @@
 		</div>
 	</div>
 </div>
+
 
 
 <?php include 'include/scripts.php'; ?>

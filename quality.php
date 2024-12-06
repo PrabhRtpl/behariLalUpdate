@@ -181,6 +181,68 @@ Our Research and Development team uses various equipment and instruments in Phys
             </div>
         </div>
     </section>
+    <section class="container my-5">
+        <div class="intro">
+            <div class="row">
+                <div class="col-12 col-md-12 col-lg-12 m-auto">
+                    <h6 class="subHead intro-para">Facilities</h6>
+                    <p class="intro-para">Physical Testing Laboratory:
+</p>
+<ul>
+    <li>Universal Testing Machine 40 M.T. & 60 M.T.</li>
+    <li>Digital Impact Testing Machine</li>
+    <li>Inverted Metallurgical Microscope with Image Analyser (100× Magnification)</li>
+    <li>Ultrasonic Testing Machine</li>
+    <li>Surface Flaw Detector</li>
+    <li>Magnetic Particle Inspection</li>
+    <li>Penetrant Testing (Surface/ Dye)</li>
+    <li>Digital Brinell Hardness Tester</li>
+    <li>Proceq Equotip Hardness Tester</li>
+    <li>Bomb Calorimeter</li>
+    <li>Jominy Testing</li>
+    <li>Muffle Furnace</li>
+</ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="notice-page my-5">
+        <div class="container">
+            <div class="row">
+            <div class="col-12 col-md-12 col-lg-12 m-auto">
+                    <h6 class="subHead intro-para mb-5">Certificate </h6>
+
+                </div>
+                <div class="col-12  col-md-6 col-lg-6 pb-5">
+                    <div class="pdf-content">
+                        <a href="assets/img/ems.pdf" target="_blank"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>
+                        Environmental Management System ISO 14001:2015</a>
+                            
+                    </div>
+                </div>
+                <div class="col-12  col-md-6 col-lg-6 pb-5">
+                  
+                    <div class="pdf-content">
+                        <a href="assets/img/ohsas.pdf" target="_blank"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>Occupational Health & Safety Management System - ISO 45001:2018</a>
+                    </div>
+                </div>
+                <div class="col-12  col-md-6 col-lg-6 pb-5">
+                   
+                    <div class="pdf-content">
+                        <a href="assets/img/qms.pdf" target="_blank"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>
+                        Quality Management System ISO 9001:2015</a>
+                    </div>
+                </div>
+                <div class="col-12  col-md-6 col-lg-6 pb-5">
+                    <div class="pdf-content">
+                        <a href="assets/img/rdso.pdf" target="_blank"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>
+                        RDSO</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </main>
 
 <!-- main-area-end -->

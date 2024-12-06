@@ -49,7 +49,7 @@
 							<i class="fa-solid fa-location-dot"></i>
 							</div>
 							<div class="content">
-								<span>Registered Office</span>
+								<span>Registered Office & SMS  Foundary Division</span>
 								<h2 class="title">Village Salani, Amloh Road, Mandi Gobindgarh, Punjab-147301</h2>
 							</div>
 						</div>
@@ -61,7 +61,7 @@
 							<i class="fa-solid fa-location-dot"></i>
 							</div>
 							<div class="content">
-								<span>SMS & Foundary Division</span>
+								<span>Rolling Mill Division</span>
 								<h2 class="title">Village Turan, Amloh Road, Mandi Gobindgarh, Punjab-147301</h2>
 							</div>
 						</div>
@@ -102,6 +102,30 @@
 							</div>
 						</div>
 					</div>
+					<div class="contact__info-item">
+					
+						<div class="contact__info-content">
+							<div class="icon">
+							<i class="fa-solid fa-link"></i>
+							</div>
+							<div class="content">
+								<a href="vendor.php"><span>Vendor Registration</span></a>
+								<!-- <h2 class="title"><a href="tel:++91 93165-40709">+91 93165-40709</a></h2> -->
+							</div>
+						</div>
+					</div>
+					<div class="contact__info-item">
+					
+						<div class="contact__info-content">
+							<div class="icon">
+							<i class="fa-solid fa-link"></i>
+							</div>
+							<div class="content">
+								<a href="career.php"><span>Career</span></a>
+								<!-- <h2 class="title"><a href="tel:++91 93165-40709">+91 93165-40709</a></h2> -->
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 			<div class="col-lg-8">
@@ -115,7 +139,7 @@
 						<span class="sub-title">Get In Touch</span>
 						<h2 class="title">Needs Help? Let’s Get in Touch</h2>
 					</div>
-					<form id="contact-form" action="assets/mail.php" method="post" class="contact__form">
+					<form id="contact-form" action="assets/mail.php" method="post" class="contact__form consultation__form">
 						<div class="row gutter-20">
 							<div class="col-md-6">
 								<div class="form-grp">
@@ -127,10 +151,23 @@
 									<input type="email" name="email" placeholder="Email Address">
 								</div>
 							</div>
+							<div class="col-md-6">
+							<div class="form-grp select-grp">
+                                    <!-- <label for="select">What are you looking for?</label> -->
+                                    <select name="select" id="select" class="orderby">
+                                        <option value="Select your subject">Select your Poructs</option>
+                                        <option value="Subject One">Metal Rolls</option>
+                                        <option value="Subject Two">Engineering Castings</option>
+                                        <option value="Subject Three">Carbon & Alloy Steel Bars</option>
+                                        <option value="Subject Four">Forging Quality Ingots</option>
+										<option value="Subject Five">Forged Shafts and Blocks</option>
+                                    </select>
+                                </div>
+							</div>
 						</div>
-						<div class="form-grp">
+						<!-- <div class="form-grp">
 							<input type="text" name="subject" placeholder="Your Subject">
-						</div>
+						</div> -->
 						<div class="form-grp">
 							<textarea name="message" placeholder="Type Your Message"></textarea>
 						</div>

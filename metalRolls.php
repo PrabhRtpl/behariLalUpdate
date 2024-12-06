@@ -48,15 +48,15 @@
                                 style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-top;"> -->
                                 <ul class="list-wrap about__inner-list">
                                 <!-- <h6>Grades of Metal Rolls</h6> -->
-                                <li><a href="#metal1"><i class="fas fa-check-circle tick-metal"></i>Alloy Cast Steel Rolls</a></li>
-                                <li><a href="#metal2"><i class="fas fa-check-circle tick-metal"></i>Alloy Steel Base Adamite Rolls</a></li>
-                                <li><a href="#metal3"><i class="fas fa-check-circle tick-metal"></i>Graphitic Steel Rolls</a></li>
-                                <li><a href="#metal4"><i class="fas fa-check-circle tick-metal"></i>High Speed Steel (HSS) Rolls</a></li>
-                                <li><a href="#metal5"><i class="fas fa-check-circle tick-metal"></i>S.G. Iron Ferritic Rolls</a></li>
-                                <li><a href="#metal6"><i class="fas fa-check-circle tick-metal"></i>S.G. Iron Pearlitic Rolls</a></li>
-                                <li><a href="#metal7"><i class="fas fa-check-circle tick-metal"></i>S.G. Iron Bainitic-Acicular Rolls</a></li>
-                                <li><a href="#metal8"><i class="fas fa-check-circle tick-metal"></i>Alloyed Indefinite Chill Rolls</a></li>
-                                <li><a href="#metal9"><i class="fas fa-check-circle tick-metal"></i>ICDP Rolls</a></li>
+                                <li class="products-sub-points"><a href="#metal1"><i class="fas fa-check-circle tick-metal"></i>Alloy Cast Steel Rolls</a></li>
+                                <li class="products-sub-points"><a href="#metal2"><i class="fas fa-check-circle tick-metal"></i>Alloy Steel Base Adamite Rolls</a></li>
+                                <li class="products-sub-points"><a href="#metal3"><i class="fas fa-check-circle tick-metal"></i>Graphitic Steel Rolls</a></li>
+                                <li class="products-sub-points"><a href="#metal4"><i class="fas fa-check-circle tick-metal"></i>High Speed Steel (HSS) Rolls</a></li>
+                                <li class="products-sub-points"><a href="#metal5"><i class="fas fa-check-circle tick-metal"></i>S.G. Iron Ferritic Rolls</a></li>
+                                <li class="products-sub-points"><a href="#metal6"><i class="fas fa-check-circle tick-metal"></i>S.G. Iron Pearlitic Rolls</a></li>
+                                <li class="products-sub-points"><a href="#metal7"><i class="fas fa-check-circle tick-metal"></i>S.G. Iron Bainitic-Acicular Rolls</a></li>
+                                <li class="products-sub-points"><a href="#metal8"><i class="fas fa-check-circle tick-metal"></i>Alloyed Indefinite Chill Rolls</a></li>
+                                <li class="products-sub-points"><a href="#metal9"><i class="fas fa-check-circle tick-metal"></i>ICDP Rolls</a></li>
                             </ul>
                         </div>
                     </div>
@@ -72,7 +72,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-10 order-0 order-lg-2" >
                         <div class="history__img">
-                            <img src="assets/img/images/alloyCast.png" alt="img"
+                            <img src="assets/img/images/product-1.2.jpg" alt="img"
                                 class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
                                 data-wow-delay="0.2s"
                                 style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
@@ -168,7 +168,7 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="history__img">
-                        <img src="assets/img/images/2.jpg" alt="img" class="wow img-custom-anim-left  animated"
+                        <img src="assets/img/images/product-1.3.jpg" alt="img" class="wow img-custom-anim-left  animated"
                             data-wow-duration="1.5s" data-wow-delay="0.2s"
                             style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
                     </div>
@@ -268,7 +268,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-10 order-0 order-lg-2">
                         <div class="history__img">
-                            <img src="assets/img/images/3.jpg" alt="img"
+                            <img src="assets/img/images/product-1.4.jpg" alt="img"
                                 class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
                                 data-wow-delay="0.2s"
                                 style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
@@ -366,7 +366,7 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="history__img">
-                        <img src="assets/img/images/4.jpg" alt="img" class="wow img-custom-anim-left  animated"
+                        <img src="assets/img/images/product-1.5.jpg" alt="img" class="wow img-custom-anim-left  animated"
                             data-wow-duration="1.5s" data-wow-delay="0.2s"
                             style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
                     </div>
@@ -869,7 +869,7 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-10 order-0 order-lg-2">
                         <div class="history__img">
-                            <img src="assets/img/images/9.jpg" alt="img"
+                            <img src="assets/img/images/product1.10.jpg" alt="img"
                                 class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
                                 data-wow-delay="0.2s"
                                 style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
