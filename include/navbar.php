@@ -129,6 +129,12 @@
                   <li class="nav-item">
                     <a class="nav-link" href="quality.php">Quality Assurance</a>
                   </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="awards.php">Awards & Media</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="sustainability-2.php">Sustainability</a>
+                  </li>
                   <li class="menu-item-has-children"><a>Notification</a>
                     <ul class="sub-menu">
                       <li><a class="dropdown-item" href="assets/img/pdf/EC-letter.pdf">EIA</a></li>
@@ -137,18 +143,14 @@
                     </ul>
                     <div class="dropdown-btn"><span class="plus-line"></span></div>
                   </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="sustainability.php">Sustainability</a>
-                  </li>
+                 
                   <!-- <li class="nav-item">
                     <a class="nav-link" href="certificate.php">Certificate</a>
                   </li> -->
                   <!-- <li class="nav-item">
           <a class="nav-link" href="csr.php">CSR</a>
         </li> -->
-                  <li class="nav-item">
-                    <a class="nav-link" href="awards.php">Awards & Media</a>
-                  </li>
+              
                   <!-- <li class="nav-item">
           <a class="nav-link" href="notice.php">Notice</a>
         </li> -->
@@ -208,6 +210,12 @@
           <li class="nav-item">
             <a class="nav-link" href="quality.php">Quality Assurance</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="awards.php">Awards & Media</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="sustainability-2.php">Sustainability</a>
+          </li>
           <li class="menu-item-has-children"><a href="#">Notification</a>
             <ul class="sub-menu">
               <li><a href="assets/img/pdf/EC-letter.pdf">EIA</a></li>
@@ -215,16 +223,12 @@
             </ul>
             <div class="dropdown-btn"><span class="plus-line"></span></div>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="sustainability.php">Sustainability</a>
-          </li>
-          <li class="nav-item">
+         
+          <!-- <li class="nav-item">
             <a class="nav-link" href="certificate.php">Certificate</a>
-          </li>
+          </li> -->
 
-          <li class="nav-item">
-            <a class="nav-link" href="awards.php">Awards & Media</a>
-          </li>
+        
 
           <li class="nav-item">
             <a class="nav-link" href="career.php">Career</a>

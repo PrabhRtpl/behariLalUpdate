@@ -47,7 +47,11 @@
                                     <label for="number">Mobile No.</label>
                                     <input type="number" id="number">
                                 </div>
-                                <div class="form-grp select-grp">
+                                <div class="form-grp">
+                                    <label for="name">What are you looking for?</label>
+                                    <input type="text" id="name">
+                                </div>
+                                <!-- <div class="form-grp select-grp">
                                     <label for="select">What are you looking for?</label>
                                     <select name="select" id="select" class="orderby">
                                         <option value="Select your subject">Select your subject</option>
@@ -56,7 +60,7 @@
                                         <option value="Subject Three">Subject Three</option>
                                         <option value="Subject Four">Subject Four</option>
                                     </select>
-                                </div>
+                                </div> -->
                                 <div class="form-grp">
                                     <label for="message">Write your message</label>
                                     <textarea name="message" id="message"></textarea>

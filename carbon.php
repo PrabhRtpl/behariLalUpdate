@@ -39,7 +39,7 @@
                     <div class="about__content-four">
                         <div class="section__title section__title-three mb-30">
                             <span class="sub-title">CARBON AND ALLOY STEEL BARS</span>
-                            <h2 class="title">CARBON AND ALLOY STEEL BARS (Round, Square, Flat, Rectangle and Hex)</h2>
+                            <h2 class="title">CARBON AND ALLOY STEEL BARS (Round, Square, Flat and Hex)</h2>
                         </div>
                         <p>In our 2 Modern Hot Rolling Mills with Roughing facility, we are manufacturing various
                             Sections and
@@ -59,7 +59,7 @@
                             <li>Round - 16mm to 220mm</li>
                             <li>Square & RCS - ▢ 34mm to  ▢ 140mm</li>
                             <li>Flat & RCF - 50mm to 300mm width & 5mm to 32mm thickness</li>
-                            <li>Rectangle. - 35X45…………..</li>
+                            <!-- <li>Rectangle. - 35X45…………..</li> -->
                             <li>Hexagon - ⬡25mm to ⬡70mm</li>
                         </ul>
                         <p>A team of professional and technical experts having wide experience in the steel industry run

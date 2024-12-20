@@ -181,7 +181,7 @@ Our Research and Development team uses various equipment and instruments in Phys
             </div>
         </div>
     </section>
-    <section class="container my-5">
+    <!-- <section class="container my-5">
         <div class="intro">
             <div class="row">
                 <div class="col-12 col-md-12 col-lg-12 m-auto">
@@ -205,11 +205,11 @@ Our Research and Development team uses various equipment and instruments in Phys
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
-    <section class="notice-page my-5">
+    <section class="notice-page my-5 pt-5 bg-light">
         <div class="container">
-            <div class="row">
+            <!-- <div class="row">
             <div class="col-12 col-md-12 col-lg-12 m-auto">
                     <h6 class="subHead intro-para mb-5">Certificate </h6>
 
@@ -238,6 +238,94 @@ Our Research and Development team uses various equipment and instruments in Phys
                     <div class="pdf-content">
                         <a href="assets/img/rdso.pdf" target="_blank"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>
                         RDSO</a>
+                    </div>
+                </div>
+                <div class="col-12  col-md-6 col-lg-6 pb-5">
+                    <div class="pdf-content">
+                        <a href="assets/img/iso.pdf" target="_blank"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>
+                        ISO 9001:2015</a>
+                    </div>
+                </div>
+                <div class="col-12  col-md-6 col-lg-6 pb-5">
+                    <div class="pdf-content">
+                        <a href="assets/img/certificate-5.pdf" target="_blank"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>
+                        One Star Export House</a>
+                    </div>
+                </div>
+                <div class="col-12  col-md-6 col-lg-6 pb-5">
+                    <div class="pdf-content">
+                        <a href="assets/img/ped.pdf" target="_blank"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i>
+                        PED Certificate</a>
+                    </div>
+                </div>
+            </div> -->
+            <div class="row ">
+            <div class="col-12 col-md-12 col-lg-12 m-auto">
+                    <h6 class="subHead intro-para mb-5">Certificate </h6>
+
+                </div>
+                
+                <div class="col-12  col-md-6 col-lg-3 pb-5 text-center">
+                    <div class="pdf-content-2">
+                        
+                        <a href="assets/img/ems.pdf" target="_blank">
+                        <img src="assets/img/certi-7-logo.png">
+                    
+                        <h5 class="">Environmental Management System ISO 14001:2015</h5></a>
+                    </div>
+                </div>
+                <div class="col-12  col-md-6 col-lg-3 pb-5 text-center">
+                    <div class="pdf-content-2">
+                        
+                        <a href="assets/img/ohsas.pdf" target="_blank">
+                        <img src="assets/img/certi-7-logo.png">
+                    
+                        <h5 class="">Occupational Health & Safety Management System - ISO 45001:2018</h5></a>
+                    </div>
+                </div>
+                <div class="col-12  col-md-6 col-lg-3 pb-5 text-center">
+                    <div class="pdf-content-2">
+                        
+                        <a href="assets/img/qms.pdf" target="_blank">
+                        <img src="assets/img/certi-7-logo.png">
+                    
+                        <h5 class="">Quality Management System ISO 9001:2015</h5></a>
+                    </div>
+                </div>
+                <div class="col-12  col-md-6 col-lg-3 pb-5 text-center">
+                    <div class="pdf-content-2">
+                        
+                        <a href="assets/img/rdso.pdf" target="_blank">
+                        <img src="assets/img/certi-6-logo.png">
+                    
+                        <h5 class="">RDSO</h5></a>
+                    </div>
+                </div>
+                <div class="col-12  col-md-6 col-lg-3 pb-5 text-center">
+                    <div class="pdf-content-2">
+                        
+                        <a href="assets/img/iso.pdf" target="_blank">
+                        <img src="assets/img/certi-5-logo.png">
+                    
+                        <h5 class="">ISO 9001:2015</h5></a>
+                    </div>
+                </div>
+                <div class="col-12  col-md-6 col-lg-3 pb-5 text-center">
+                    <div class="pdf-content-2">
+                        
+                        <a href="assets/img/certificate-5.pdf" target="_blank">
+                        <img src="assets/img/certi-4-logo.png">
+                    
+                        <h5 class="">Certificate of Recognition</h5></a>
+                    </div>
+                </div>
+                <div class="col-12  col-md-6 col-lg-3 pb-5 text-center">
+                    <div class="pdf-content-2">
+                        
+                        <a href="assets/img/ped.pdf" target="_blank">
+                        <img src="assets/img/certi-1-logo.png">
+                    
+                        <h5 class="">PED Certificate</h5></a>
                     </div>
                 </div>
             </div>

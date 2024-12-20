@@ -63,7 +63,8 @@
                             <h2 class="title">Automotive & Engineering Products</h2>
                         </div>
                         <p>Our Quality Centric policy drives us towards our goal of Customer Delight. In a short span of
-                            time, Behari Lal Engineering Limited has become an established manufacturer and trusted
+                            time, Behari Lal Engineering Limited (BLEL) has become an established manufacturer and
+                            trusted
                             vendor for various product lines. All our processes are consistent with ISO 9001 : 2015
                             Certification.</p>
                         <div class="about__list-box-wrap">
@@ -120,10 +121,10 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="cta__btn">
-                        <a href="javascript::void()" class="btn btn-two">Explore Our Products <img
+                        <a href="products.php" class="btn btn-two">Explore Our Products <img
                                 src="assets/img/icons/right_arrow.svg" alt="" class="injectable"></a>
-                        <a href="javascript::void()" class="btn transparent-btn popup-video">Watch Our Story <i
-                                class="renova-play"></i></a>
+                        <a href="https://www.youtube.com/watch?v=R30gwrE5rs8" target="_blank"
+                            class="btn transparent-btn popup-video">Watch Our Story <i class="renova-play"></i></a>
                     </div>
                 </div>
             </div>
@@ -133,7 +134,6 @@
         </div>
     </section>
     <!-- cta-area-end -->
-
 
 
 
@@ -157,7 +157,8 @@
                             <span class="sub-title">More About Us</span>
                             <h2 class="title">We Have Built An Enviable Reputation</h2>
                         </div>
-                        <p>Behari Lal Engineering Limited is a Special Steels Manufacturing Company committed to satisfy
+                        <p>Behari Lal Engineering Limited (BLEL) is a Special Steels Manufacturing Company committed to
+                            satisfy
                             its customers by providing quality products consistently in accordance with customer
                             specific requirements. The plant comprises of Modern Technology Fully Integrated Digital
                             Steel Melting Shop with Vacuum Degassing(VD), Foundry, Heat Treatment and Machine Shop.</p>
@@ -237,9 +238,53 @@
 
 
 
+    <section class="timeline my-5">
+        <div class="row w-100">
+            <div class="col-12">
+                <div class="timeline-content heading-section text-center">
+                    <h3 class="mb-5">Our Journey</h3>
+                    <!-- <p>We have come a long way. Our growth story has been fueled by a relentless
+                        pursuit of excellence and innovation. We are proud to be at the forefront of the
+                        steel industry , offering end to end solutions that add value to our customers’
+                        operations.</p> -->
+                </div>
+            </div>
+        </div>
+        <ul class="timeline-ul">
+            <li style="--accent-color:#0d4a62">
+                <div class="date">1910</div>
+                <div class="title"></div>
+                <div class="descr">Behari Lal Group founded by Sh. Behari Lal Garg in Patiala Punjab.</div>
+            </li>
+            <li style="--accent-color:#2a7e9e">
+                <div class="date">1958</div>
+                <div class="title"></div>
+                <div class="descr">Behari Lal & Sons established in Mandi Gobindgarh Punjab.
+                </div>
+            </li>
+            <li style="--accent-color:#0d4a62">
+                <div class="date">2012-2016</div>
+                <div class="title"></div>
+                <div class="descr"> SMS Operations started at our Salani Works, Machine Shop I Established, Commissioning of VD, Solar Plant – I, Heat Treatment Shop.</div>
+            </li>
+            <li style="--accent-color:#2a7e9e">
+                <div class="date">2017-2021</div>
+                <div class="title"></div>
+                <div class="descr">Commissioning of New Alpha Sand Moulding Line, Machine Shop II, Upgradation of SMS with New Melting Furnace, CNC Machines, Auto Shot Blast and Paint Booth, Conversion of FO to PNG, Solar Plant – II, New Heat Treatment with Solution Quenching.</div>
+            </li>
+            <li style="--accent-color:#0d4a62">
+                <div class="date">2022-Present</div>
+                <div class="title"></div>
+                <div class="descr">Commissioning of New Hot Rolling Mill, Further expansion of Heat Treatment Shop with Annealing, Quenching and Tempering, Solar Plant – III & IV, Upgradation of SMS with New Melting Furnace, New LRF and VD.</div>
+            </li>
+          
+        </ul>
 
 
- 
+
+    </section>
+
+
 
 </main>
 <!-- main-area-end -->

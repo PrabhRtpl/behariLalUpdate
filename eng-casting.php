@@ -31,7 +31,7 @@
                     <div class="about__img-four wow img-custom-anim-left  animated" data-wow-duration="1.5s"
                         data-wow-delay="0.2s"
                         style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
-                        <img src="assets/img/images/metalRol.png" alt="img">
+                        <img src="assets/img/images/eng.jpg" alt="img">
                     </div>
                 </div>
                 <div class="col-lg-6">

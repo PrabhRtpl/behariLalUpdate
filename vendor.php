@@ -51,7 +51,7 @@
                                     <input type="number" id="number">
                                 </div>
                                 <div class="form-grp col-12 col-md-6 col-lg-4">
-                                    <label for="number">Whatsapp NO.</label>
+                                    <label for="number">Whatsapp No.</label>
                                     <input type="text" id="name">
                                 </div>
                                 <div class="form-grp col-12 col-md-6 col-lg-4">

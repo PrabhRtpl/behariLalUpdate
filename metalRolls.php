@@ -61,13 +61,56 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-12 text-start">
+               <h2>Application</h2>  
+                </div>
+                <div class="col-12 mt-4">
+                    <div class="row">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/tmt.jpg">
+                                <h4>TMT Re-Bar</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/wire.jpg">
+                                <h4>Wire Rod</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/rounds.jpg">
+                                <h4> Section</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/rail.jpg">
+                                <h4>Rail</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/coil.jpg">
+                                <h4>HR Coil/ HR Strip</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/channel.jpg">
+                                <h4>Structural </h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
     <div class="one-sub" id="metal1">
-    <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
+    <div class="history__bg pb-5" data-background="assets/img/bg/history_bg.jpg"
         style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
-        <section class="history__area section-py-120">
+        <section class="history__area section-pt-120">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-10 order-0 order-lg-2" >
@@ -113,9 +156,55 @@
                             </div>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </section>
+        <div class="container my-5">
+        <div class="col-12 text-start">
+               <h2 class="text-white">Application</h2>  
+                </div>
+                <div class="col-12 mt-4">
+                    <div class="row">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/tmt.jpg">
+                                <h4>Blooming Mills</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/wire.jpg">
+                                <h4>Light Section Mills</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/rounds.jpg">
+                                <h4> Heavy Section Mills</h4>
+                            </div>
+                        </div>
+                        <!-- <div class="col-12 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/tmt.jpg">
+                                <h4>Rail</h4>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/coil.jpg">
+                                <h4>HR Coil/ HR Strip</h4>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/channel.jpg">
+                                <h4>Structural </h4>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+        </div>
 
     </div>
     <div class="container chemical-text aos-init aos-animate section-py-120" data-aos="fade-right">
@@ -158,12 +247,13 @@
                     </table>
                 </div>
             </div>
+            
         </div>
     </div>
     
     </div>
     <div class="two-sub" id="metal2">
-    <section class="history__area section-py-120 grey-bg">
+    <section class="history__area section-pt-120 grey-bg pb-5">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-10">
@@ -208,6 +298,49 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+                <div class="col-12 text-start mt-5">
+               <h2>Application</h2>  
+                </div>
+                <div class="col-12 mt-4">
+                    <div class="row">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/tmt.jpg">
+                                <h4>Heavy Section and Rail Mills</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/wire.jpg">
+                                <h4>Universal Beam Mills</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/rounds.jpg">
+                                <h4> TMT Bar Mills</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/tmt.jpg">
+                                <h4>Medium Section Mills </h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/coil.jpg">
+                                <h4>Billet Mills</h4>
+                            </div>
+                        </div>
+                        <!-- <div class="col-12 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/channel.jpg">
+                                <h4>Structural </h4>
+                            </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -263,12 +396,12 @@
     <div class="three-sub" id="metal3">
     <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
         style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
-        <section class="history__area section-py-120">
+        <section class="history__area section-pt-120 pb-5">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-10 order-0 order-lg-2">
                         <div class="history__img">
-                            <img src="assets/img/images/product-1.4.jpg" alt="img"
+                            <img src="assets/img/images/product1.4.jpg" alt="img"
                                 class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
                                 data-wow-delay="0.2s"
                                 style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
@@ -311,6 +444,28 @@
                     </div>
                 </div>
             </div>
+            <!-- <div class="container my-5">
+        <div class="col-12 text-center">
+               <h2 class="text-white">Application</h2>  
+                </div>
+                <div class="col-12 mt-4">
+                    <div class="row">
+                        <div class="col-12 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/tmt.jpg">
+                                <h4>TMT Re-Bar Mills</h4>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/wire.jpg">
+                                <h4>Wire Rod </h4>
+                            </div>
+                        </div>
+                
+                    </div>
+                </div>
+        </div> -->
         </section>
 
     </div>
@@ -361,7 +516,7 @@
     </div>
     </div>
     <div class="four-sub" id="metal4">
-    <section class="history__area section-py-120 grey-bg">
+    <section class="history__area section-pt-120 grey-bg pb-5" >
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-10">
@@ -404,6 +559,25 @@
                                     <p>Tensile Strength : 650-900 N/mm2</p>
                                     <p>Bending Strength : 4-8 J/cm2</p>
                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 text-start mt-5">
+               <h2>Application</h2>  
+                </div>
+                <div class="col-12 mt-4">
+                    <div class="row">
+                    <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/tmt.jpg">
+                                <h4>TMT Re-Bar Mills</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/wire.jpg">
+                                <h4>Wire Rod </h4>
                             </div>
                         </div>
                     </div>
@@ -460,12 +634,12 @@
     <div class="five-sub" id="metal5">
     <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
         style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
-        <section class="history__area section-py-120">
+        <section class="history__area section-pt-120 pb-5">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-10 order-0 order-lg-2">
                         <div class="history__img">
-                            <img src="assets/img/images/alloyCast.png" alt="img"
+                            <img src="assets/img/images/product1.6.jpg" alt="img"
                                 class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
                                 data-wow-delay="0.2s"
                                 style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
@@ -558,12 +732,12 @@
     </div>
     </div>
     <div class="six-sub" id="metal6">
-    <section class="history__area section-py-120 grey-bg">
+    <section class="history__area section-pt-120 pb-5 grey-bg">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="history__img">
-                        <img src="assets/img/images/alloyCast.png" alt="img" class="wow img-custom-anim-left  animated"
+                        <img src="assets/img/images/product1.7.jpg" alt="img" class="wow img-custom-anim-left  animated"
                             data-wow-duration="1.5s" data-wow-delay="0.2s"
                             style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
                     </div>
@@ -601,6 +775,37 @@
                                     <p>Tensile Strength : 400-600 N/mm2</p>
                                     <p>Bending Strength : 2-4 J/cm2</p>
                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 text-start mt-5">
+               <h2>Application</h2>  
+                </div>
+                <div class="col-12 mt-4">
+                    <div class="row">
+                    <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/tmt.jpg">
+                                <h4>Blooming/Slabbing</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/wire.jpg">
+                                <h4>TMT Bars Mills </h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/wire.jpg">
+                                <h4>Wire Rod Mills</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/wire.jpg">
+                                <h4>Strip Mills</h4>
                             </div>
                         </div>
                     </div>
@@ -657,12 +862,12 @@
     <div class="seven-sub" id="metal7">
     <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
         style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
-        <section class="history__area section-py-120">
+        <section class="history__area section-pt-120">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-10 order-0 order-lg-2">
                         <div class="history__img">
-                            <img src="assets/img/images/7.jpg" alt="img"
+                            <img src="assets/img/images/product1.8.jpg" alt="img"
                                 class="wow img-custom-anim-right  animated" data-wow-duration="1.5s"
                                 data-wow-delay="0.2s"
                                 style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-right;">
@@ -706,6 +911,46 @@
                     </div>
                 </div>
             </div>
+              <div class="container my-5">
+        <div class="col-12 text-start">
+               <h2 class="text-white">Application</h2>  
+                </div>
+                <div class="col-12 mt-4">
+                    <div class="row">
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/tmt.jpg">
+                                <h4>TMT Bar Mills</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/wire.jpg">
+                                <h4>Rail Mills</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/wire.jpg">
+                                <h4>Structural Mills</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/wire.jpg">
+                                <h4>Wire Rod</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/wire.jpg">
+                                <h4>Strip Mills</h4>
+                            </div>
+                        </div>
+                
+                    </div>
+                </div>
+        </div>
         </section>
 
     </div>
@@ -756,12 +1001,12 @@
     </div>
     </div>
     <div class="eight-sub" id="metal8">
-    <section class="history__area section-py-120 grey-bg">
+    <section class="history__area section-pt-120 grey-bg pb-5">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-10">
                     <div class="history__img">
-                        <img src="assets/img/images/8.jpg" alt="img" class="wow img-custom-anim-left  animated"
+                        <img src="assets/img/images/product1.9.jpg" alt="img" class="wow img-custom-anim-left  animated"
                             data-wow-duration="1.5s" data-wow-delay="0.2s"
                             style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.2s; animation-name: img-anim-left;">
                     </div>
@@ -808,6 +1053,37 @@
                                     <p>Tensile Strength : 200-300 N/mm2</p>
                                     <p>Bending Strength: 1-1.8 J/cm2</p>
                                 </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 text-start mt-5">
+               <h2>Application</h2>  
+                </div>
+                <div class="col-12 mt-4">
+                    <div class="row">
+                    <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/tmt.jpg">
+                                <h4>Wire Rod Mills</h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/wire.jpg">
+                                <h4>TMT Mills </h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/wire.jpg">
+                                <h4>Merchant Mills </h4>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-4 col-lg-2">
+                            <div class="application-main">
+                                <img src="assets/img/wire.jpg">
+                                <h4>Structural Mills</h4>
                             </div>
                         </div>
                     </div>
@@ -864,7 +1140,7 @@
     <div class="nine-sub" id="metal9">
     <div class="history__bg" data-background="assets/img/bg/history_bg.jpg"
         style="background-image: url(&quot;assets/img/bg/history_bg.jpg&quot;);">
-        <section class="history__area section-py-120">
+        <section class="history__area section-pt-120">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-lg-6 col-md-10 order-0 order-lg-2">
@@ -913,6 +1189,22 @@
                     </div>
                 </div>
             </div>
+            <div class="container my-5">
+        <div class="col-12 text-start">
+               <h2 class="text-white">Application</h2>  
+                </div>
+                <div class="col-12 mt-4">
+                    <div class="row">
+                        <div class="col-12 col-md-4 col-lg-2">
+                            <div class="application-main-2">
+                                <img src="assets/img/tmt.jpg">
+                                <h4>Hot Strip Mill </h4>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+        </div>
         </section>
 
     </div>
